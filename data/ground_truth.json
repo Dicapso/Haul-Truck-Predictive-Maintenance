@@ -1,0 +1,5258 @@
+[
+ {
+  "truck_id": "HT-01",
+  "component": "suspension",
+  "onset": "2024-11-29",
+  "failure": "2024-11-29",
+  "lead_days": 0,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "engine",
+  "onset": "2025-01-05",
+  "failure": "2025-01-17",
+  "lead_days": 12,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "engine",
+  "onset": "2025-03-09",
+  "failure": "2025-03-30",
+  "lead_days": 21,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "engine",
+  "onset": "2025-04-29",
+  "failure": "2025-04-29",
+  "lead_days": 0,
+  "amplitude": 1.29
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-03",
+  "failure": "2025-05-19",
+  "lead_days": 16,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-29",
+  "failure": "2025-07-16",
+  "lead_days": 17,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "transmission",
+  "onset": "2025-07-06",
+  "failure": "2025-07-18",
+  "lead_days": 12,
+  "amplitude": 0.56
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "suspension",
+  "onset": "2025-07-26",
+  "failure": "2025-08-06",
+  "lead_days": 11,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "suspension",
+  "onset": "2025-09-01",
+  "failure": "2025-09-17",
+  "lead_days": 16,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "transmission",
+  "onset": "2025-09-01",
+  "failure": "2025-09-26",
+  "lead_days": 25,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "suspension",
+  "onset": "2025-11-02",
+  "failure": "2025-11-14",
+  "lead_days": 12,
+  "amplitude": 1.3
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2025-10-25",
+  "failure": "2025-11-16",
+  "lead_days": 22,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-08",
+  "failure": "2026-01-08",
+  "lead_days": 0,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "suspension",
+  "onset": "2026-01-10",
+  "failure": "2026-01-16",
+  "lead_days": 6,
+  "amplitude": 0.62
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-10",
+  "failure": "2026-01-26",
+  "lead_days": 16,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-21",
+  "failure": "2026-03-21",
+  "lead_days": 0,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-22",
+  "failure": "2026-04-12",
+  "lead_days": 21,
+  "amplitude": 0.84
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "engine",
+  "onset": "2026-04-10",
+  "failure": "2026-04-24",
+  "lead_days": 14,
+  "amplitude": 1.03
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-19",
+  "failure": "2026-08-10",
+  "lead_days": 22,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "engine",
+  "onset": "2026-08-05",
+  "failure": "2026-08-17",
+  "lead_days": 12,
+  "amplitude": 0.84
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "suspension",
+  "onset": "2026-07-29",
+  "failure": "2026-08-23",
+  "lead_days": 25,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-01",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-20",
+  "failure": "2026-09-11",
+  "lead_days": 22,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2025-03-19",
+  "failure": "2025-04-06",
+  "lead_days": 18,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "transmission",
+  "onset": "2025-05-14",
+  "failure": "2025-06-05",
+  "lead_days": 22,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2025-08-08",
+  "failure": "2025-08-20",
+  "lead_days": 12,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "transmission",
+  "onset": "2025-09-03",
+  "failure": "2025-09-14",
+  "lead_days": 11,
+  "amplitude": 0.98
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2025-10-17",
+  "failure": "2025-11-01",
+  "lead_days": 15,
+  "amplitude": 0.85
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2025-11-26",
+  "failure": "2025-12-14",
+  "lead_days": 18,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2025-12-30",
+  "failure": "2026-01-14",
+  "lead_days": 15,
+  "amplitude": 1.1
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-11",
+  "failure": "2026-02-21",
+  "lead_days": 10,
+  "amplitude": 1.12
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "transmission",
+  "onset": "2026-04-27",
+  "failure": "2026-05-12",
+  "lead_days": 15,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2026-05-18",
+  "failure": "2026-05-29",
+  "lead_days": 11,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "engine",
+  "onset": "2026-05-15",
+  "failure": "2026-06-04",
+  "lead_days": 20,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "engine",
+  "onset": "2026-06-18",
+  "failure": "2026-07-12",
+  "lead_days": 24,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "suspension",
+  "onset": "2026-07-10",
+  "failure": "2026-07-21",
+  "lead_days": 11,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-02",
+  "component": "transmission",
+  "onset": "2026-10-06",
+  "failure": "2026-10-31",
+  "lead_days": 25,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "suspension",
+  "onset": "2024-11-14",
+  "failure": "2024-11-30",
+  "lead_days": 16,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-03",
+  "failure": "2025-01-18",
+  "lead_days": 15,
+  "amplitude": 1.29
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "transmission",
+  "onset": "2025-02-03",
+  "failure": "2025-02-03",
+  "lead_days": 0,
+  "amplitude": 0.58
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "suspension",
+  "onset": "2025-02-19",
+  "failure": "2025-03-08",
+  "lead_days": 17,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "hydraulics_brakes",
+  "onset": "2025-03-15",
+  "failure": "2025-04-03",
+  "lead_days": 19,
+  "amplitude": 1.1
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "suspension",
+  "onset": "2025-06-29",
+  "failure": "2025-06-29",
+  "lead_days": 0,
+  "amplitude": 0.64
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-19",
+  "failure": "2025-08-19",
+  "lead_days": 0,
+  "amplitude": 1.3
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "engine",
+  "onset": "2025-08-08",
+  "failure": "2025-09-01",
+  "lead_days": 24,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "hydraulics_brakes",
+  "onset": "2025-10-03",
+  "failure": "2025-10-16",
+  "lead_days": 13,
+  "amplitude": 1.08
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "transmission",
+  "onset": "2025-10-28",
+  "failure": "2025-11-21",
+  "lead_days": 24,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "suspension",
+  "onset": "2025-11-15",
+  "failure": "2025-12-04",
+  "lead_days": 19,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "suspension",
+  "onset": "2026-01-15",
+  "failure": "2026-02-07",
+  "lead_days": 23,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-18",
+  "failure": "2026-04-06",
+  "lead_days": 19,
+  "amplitude": 1.19
+ },
+ {
+  "truck_id": "HT-03",
+  "component": "hydraulics_brakes",
+  "onset": "2026-10-24",
+  "failure": "2026-10-29",
+  "lead_days": 5,
+  "amplitude": 0.64
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "engine",
+  "onset": "2024-11-24",
+  "failure": "2024-12-10",
+  "lead_days": 16,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-15",
+  "failure": "2025-01-29",
+  "lead_days": 14,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "suspension",
+  "onset": "2025-02-09",
+  "failure": "2025-02-28",
+  "lead_days": 19,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "suspension",
+  "onset": "2025-03-31",
+  "failure": "2025-03-31",
+  "lead_days": 0,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "suspension",
+  "onset": "2025-04-06",
+  "failure": "2025-04-06",
+  "lead_days": 0,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "transmission",
+  "onset": "2025-06-16",
+  "failure": "2025-07-09",
+  "lead_days": 23,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "engine",
+  "onset": "2025-12-01",
+  "failure": "2025-12-01",
+  "lead_days": 0,
+  "amplitude": 0.8
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "hydraulics_brakes",
+  "onset": "2025-12-27",
+  "failure": "2026-01-10",
+  "lead_days": 14,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-23",
+  "failure": "2026-03-03",
+  "lead_days": 8,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "suspension",
+  "onset": "2026-05-19",
+  "failure": "2026-05-24",
+  "lead_days": 5,
+  "amplitude": 1.05
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "suspension",
+  "onset": "2026-07-23",
+  "failure": "2026-07-23",
+  "lead_days": 0,
+  "amplitude": 1.11
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "suspension",
+  "onset": "2026-08-01",
+  "failure": "2026-08-17",
+  "lead_days": 16,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "transmission",
+  "onset": "2026-08-04",
+  "failure": "2026-08-21",
+  "lead_days": 17,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-04",
+  "component": "hydraulics_brakes",
+  "onset": "2026-10-17",
+  "failure": "2026-10-26",
+  "lead_days": 9,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "hydraulics_brakes",
+  "onset": "2024-11-20",
+  "failure": "2024-11-29",
+  "lead_days": 9,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "suspension",
+  "onset": "2024-12-25",
+  "failure": "2025-01-10",
+  "lead_days": 16,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "suspension",
+  "onset": "2025-01-14",
+  "failure": "2025-01-27",
+  "lead_days": 13,
+  "amplitude": 0.64
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-19",
+  "failure": "2025-06-08",
+  "lead_days": 20,
+  "amplitude": 0.58
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "engine",
+  "onset": "2025-09-06",
+  "failure": "2025-10-01",
+  "lead_days": 25,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "suspension",
+  "onset": "2026-02-02",
+  "failure": "2026-02-09",
+  "lead_days": 7,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-29",
+  "failure": "2026-03-29",
+  "lead_days": 0,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "transmission",
+  "onset": "2026-05-05",
+  "failure": "2026-05-26",
+  "lead_days": 21,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-23",
+  "failure": "2026-08-23",
+  "lead_days": 0,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-05",
+  "component": "hydraulics_brakes",
+  "onset": "2026-10-20",
+  "failure": "2026-10-28",
+  "lead_days": 8,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2024-11-17",
+  "failure": "2024-11-24",
+  "lead_days": 7,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2025-01-03",
+  "failure": "2025-01-08",
+  "lead_days": 5,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-16",
+  "failure": "2025-01-16",
+  "lead_days": 0,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "engine",
+  "onset": "2025-01-18",
+  "failure": "2025-02-10",
+  "lead_days": 23,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2025-01-30",
+  "failure": "2025-02-15",
+  "lead_days": 16,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "transmission",
+  "onset": "2025-02-23",
+  "failure": "2025-03-20",
+  "lead_days": 25,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-03-12",
+  "failure": "2025-03-26",
+  "lead_days": 14,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-11",
+  "failure": "2025-06-02",
+  "lead_days": 22,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2025-05-11",
+  "failure": "2025-06-04",
+  "lead_days": 24,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2025-06-28",
+  "failure": "2025-07-19",
+  "lead_days": 21,
+  "amplitude": 0.72
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-08",
+  "failure": "2025-07-29",
+  "lead_days": 21,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "transmission",
+  "onset": "2025-08-03",
+  "failure": "2025-08-10",
+  "lead_days": 7,
+  "amplitude": 1.29
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-22",
+  "failure": "2025-08-29",
+  "lead_days": 7,
+  "amplitude": 0.42
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-10-08",
+  "failure": "2025-10-19",
+  "lead_days": 11,
+  "amplitude": 0.78
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "transmission",
+  "onset": "2025-10-19",
+  "failure": "2025-10-25",
+  "lead_days": 6,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-04",
+  "failure": "2025-11-04",
+  "lead_days": 0,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "transmission",
+  "onset": "2025-12-08",
+  "failure": "2025-12-31",
+  "lead_days": 23,
+  "amplitude": 0.84
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2025-12-21",
+  "failure": "2026-01-14",
+  "lead_days": 24,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-21",
+  "failure": "2026-03-11",
+  "lead_days": 18,
+  "amplitude": 0.42
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "transmission",
+  "onset": "2026-02-22",
+  "failure": "2026-03-14",
+  "lead_days": 20,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "suspension",
+  "onset": "2026-02-24",
+  "failure": "2026-03-19",
+  "lead_days": 23,
+  "amplitude": 0.75
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "transmission",
+  "onset": "2026-04-19",
+  "failure": "2026-04-27",
+  "lead_days": 8,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "engine",
+  "onset": "2026-05-01",
+  "failure": "2026-05-11",
+  "lead_days": 10,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-28",
+  "failure": "2026-06-14",
+  "lead_days": 17,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "engine",
+  "onset": "2026-06-24",
+  "failure": "2026-07-12",
+  "lead_days": 18,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-06",
+  "component": "engine",
+  "onset": "2026-08-28",
+  "failure": "2026-08-28",
+  "lead_days": 0,
+  "amplitude": 0.8
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "hydraulics_brakes",
+  "onset": "2024-11-18",
+  "failure": "2024-12-05",
+  "lead_days": 17,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "suspension",
+  "onset": "2025-01-15",
+  "failure": "2025-01-15",
+  "lead_days": 0,
+  "amplitude": 0.93
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "engine",
+  "onset": "2025-03-31",
+  "failure": "2025-04-17",
+  "lead_days": 17,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "transmission",
+  "onset": "2025-05-08",
+  "failure": "2025-05-28",
+  "lead_days": 20,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "engine",
+  "onset": "2025-07-28",
+  "failure": "2025-08-20",
+  "lead_days": 23,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-14",
+  "failure": "2026-01-22",
+  "lead_days": 8,
+  "amplitude": 1.08
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "transmission",
+  "onset": "2026-03-23",
+  "failure": "2026-04-09",
+  "lead_days": 17,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-07",
+  "failure": "2026-05-17",
+  "lead_days": 10,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-21",
+  "failure": "2026-07-21",
+  "lead_days": 0,
+  "amplitude": 0.68
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "suspension",
+  "onset": "2026-08-06",
+  "failure": "2026-08-13",
+  "lead_days": 7,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-11",
+  "failure": "2026-08-23",
+  "lead_days": 12,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-03",
+  "failure": "2026-09-03",
+  "lead_days": 0,
+  "amplitude": 0.49
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "transmission",
+  "onset": "2026-09-16",
+  "failure": "2026-09-16",
+  "lead_days": 0,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-07",
+  "component": "transmission",
+  "onset": "2026-09-20",
+  "failure": "2026-10-08",
+  "lead_days": 18,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-13",
+  "failure": "2025-02-27",
+  "lead_days": 14,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "transmission",
+  "onset": "2025-04-18",
+  "failure": "2025-04-28",
+  "lead_days": 10,
+  "amplitude": 0.75
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-26",
+  "failure": "2025-05-18",
+  "lead_days": 22,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "transmission",
+  "onset": "2025-05-17",
+  "failure": "2025-05-31",
+  "lead_days": 14,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-18",
+  "failure": "2025-06-25",
+  "lead_days": 7,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "suspension",
+  "onset": "2025-07-25",
+  "failure": "2025-08-10",
+  "lead_days": 16,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-17",
+  "failure": "2025-08-17",
+  "lead_days": 0,
+  "amplitude": 1.11
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-08",
+  "failure": "2025-09-21",
+  "lead_days": 13,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2025-12-05",
+  "failure": "2025-12-05",
+  "lead_days": 0,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-24",
+  "failure": "2026-05-08",
+  "lead_days": 14,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "engine",
+  "onset": "2026-07-11",
+  "failure": "2026-08-02",
+  "lead_days": 22,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "transmission",
+  "onset": "2026-07-27",
+  "failure": "2026-08-07",
+  "lead_days": 11,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "engine",
+  "onset": "2026-08-17",
+  "failure": "2026-09-03",
+  "lead_days": 17,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "suspension",
+  "onset": "2026-08-29",
+  "failure": "2026-09-06",
+  "lead_days": 8,
+  "amplitude": 1.19
+ },
+ {
+  "truck_id": "HT-08",
+  "component": "suspension",
+  "onset": "2026-09-20",
+  "failure": "2026-09-29",
+  "lead_days": 9,
+  "amplitude": 0.48
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2024-11-07",
+  "failure": "2024-11-16",
+  "lead_days": 9,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "transmission",
+  "onset": "2024-11-27",
+  "failure": "2024-11-27",
+  "lead_days": 0,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2024-11-19",
+  "failure": "2024-12-14",
+  "lead_days": 25,
+  "amplitude": 0.82
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2024-12-23",
+  "failure": "2024-12-23",
+  "lead_days": 0,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2024-12-31",
+  "failure": "2025-01-14",
+  "lead_days": 14,
+  "amplitude": 0.84
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-02-27",
+  "failure": "2025-02-27",
+  "lead_days": 0,
+  "amplitude": 1.27
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "engine",
+  "onset": "2025-03-12",
+  "failure": "2025-03-23",
+  "lead_days": 11,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-03-07",
+  "failure": "2025-03-27",
+  "lead_days": 20,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-05-01",
+  "failure": "2025-05-11",
+  "lead_days": 10,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "engine",
+  "onset": "2025-05-11",
+  "failure": "2025-05-23",
+  "lead_days": 12,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-05-17",
+  "failure": "2025-06-05",
+  "lead_days": 19,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "transmission",
+  "onset": "2025-06-19",
+  "failure": "2025-06-28",
+  "lead_days": 9,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-06-25",
+  "failure": "2025-07-18",
+  "lead_days": 23,
+  "amplitude": 0.56
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-25",
+  "failure": "2025-08-25",
+  "lead_days": 0,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-08-31",
+  "failure": "2025-08-31",
+  "lead_days": 0,
+  "amplitude": 1.29
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "transmission",
+  "onset": "2025-08-22",
+  "failure": "2025-09-04",
+  "lead_days": 13,
+  "amplitude": 0.75
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2025-09-22",
+  "failure": "2025-09-30",
+  "lead_days": 8,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-14",
+  "failure": "2025-10-02",
+  "lead_days": 18,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "engine",
+  "onset": "2025-12-24",
+  "failure": "2026-01-18",
+  "lead_days": 25,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "transmission",
+  "onset": "2026-02-06",
+  "failure": "2026-02-06",
+  "lead_days": 0,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "engine",
+  "onset": "2026-03-23",
+  "failure": "2026-03-23",
+  "lead_days": 0,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2026-05-05",
+  "failure": "2026-05-26",
+  "lead_days": 21,
+  "amplitude": 1.08
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-19",
+  "failure": "2026-06-02",
+  "lead_days": 14,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "transmission",
+  "onset": "2026-05-25",
+  "failure": "2026-06-17",
+  "lead_days": 23,
+  "amplitude": 0.75
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2026-07-17",
+  "failure": "2026-07-30",
+  "lead_days": 13,
+  "amplitude": 0.72
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "engine",
+  "onset": "2026-08-04",
+  "failure": "2026-08-23",
+  "lead_days": 19,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-11",
+  "failure": "2026-08-28",
+  "lead_days": 17,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2026-08-23",
+  "failure": "2026-09-10",
+  "lead_days": 18,
+  "amplitude": 1.27
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "transmission",
+  "onset": "2026-09-07",
+  "failure": "2026-09-27",
+  "lead_days": 20,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-09",
+  "component": "suspension",
+  "onset": "2026-09-30",
+  "failure": "2026-10-08",
+  "lead_days": 8,
+  "amplitude": 0.58
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "engine",
+  "onset": "2025-03-14",
+  "failure": "2025-04-06",
+  "lead_days": 23,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "engine",
+  "onset": "2025-05-09",
+  "failure": "2025-05-25",
+  "lead_days": 16,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-02",
+  "failure": "2025-06-17",
+  "lead_days": 15,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "engine",
+  "onset": "2025-10-25",
+  "failure": "2025-11-13",
+  "lead_days": 19,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "transmission",
+  "onset": "2025-12-13",
+  "failure": "2025-12-13",
+  "lead_days": 0,
+  "amplitude": 0.75
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-07",
+  "failure": "2026-02-12",
+  "lead_days": 5,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "transmission",
+  "onset": "2026-02-22",
+  "failure": "2026-03-05",
+  "lead_days": 11,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "suspension",
+  "onset": "2026-04-22",
+  "failure": "2026-05-15",
+  "lead_days": 23,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "transmission",
+  "onset": "2026-06-05",
+  "failure": "2026-06-17",
+  "lead_days": 12,
+  "amplitude": 0.93
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "engine",
+  "onset": "2026-09-13",
+  "failure": "2026-09-13",
+  "lead_days": 0,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-11",
+  "failure": "2026-10-04",
+  "lead_days": 23,
+  "amplitude": 0.4
+ },
+ {
+  "truck_id": "HT-10",
+  "component": "hydraulics_brakes",
+  "onset": "2026-10-09",
+  "failure": "2026-10-09",
+  "lead_days": 0,
+  "amplitude": 0.79
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-27",
+  "failure": "2024-12-27",
+  "lead_days": 0,
+  "amplitude": 0.58
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "suspension",
+  "onset": "2025-01-01",
+  "failure": "2025-01-10",
+  "lead_days": 9,
+  "amplitude": 0.67
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "suspension",
+  "onset": "2025-07-20",
+  "failure": "2025-08-11",
+  "lead_days": 22,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "transmission",
+  "onset": "2025-09-03",
+  "failure": "2025-09-22",
+  "lead_days": 19,
+  "amplitude": 1.02
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "transmission",
+  "onset": "2025-11-11",
+  "failure": "2025-11-29",
+  "lead_days": 18,
+  "amplitude": 1.12
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "suspension",
+  "onset": "2026-04-18",
+  "failure": "2026-04-23",
+  "lead_days": 5,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-26",
+  "failure": "2026-05-07",
+  "lead_days": 11,
+  "amplitude": 0.85
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-05",
+  "failure": "2026-06-22",
+  "lead_days": 17,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "suspension",
+  "onset": "2026-07-13",
+  "failure": "2026-07-13",
+  "lead_days": 0,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-11",
+  "component": "transmission",
+  "onset": "2026-07-06",
+  "failure": "2026-07-15",
+  "lead_days": 9,
+  "amplitude": 0.4
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "hydraulics_brakes",
+  "onset": "2024-11-10",
+  "failure": "2024-11-17",
+  "lead_days": 7,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "transmission",
+  "onset": "2025-03-23",
+  "failure": "2025-03-23",
+  "lead_days": 0,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-05",
+  "failure": "2025-04-23",
+  "lead_days": 18,
+  "amplitude": 1.02
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "transmission",
+  "onset": "2025-04-16",
+  "failure": "2025-05-06",
+  "lead_days": 20,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "engine",
+  "onset": "2025-07-25",
+  "failure": "2025-08-08",
+  "lead_days": 14,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "suspension",
+  "onset": "2025-08-31",
+  "failure": "2025-09-16",
+  "lead_days": 16,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-16",
+  "failure": "2025-11-22",
+  "lead_days": 6,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "transmission",
+  "onset": "2026-01-29",
+  "failure": "2026-02-23",
+  "lead_days": 25,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "suspension",
+  "onset": "2026-08-22",
+  "failure": "2026-08-28",
+  "lead_days": 6,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "engine",
+  "onset": "2026-09-11",
+  "failure": "2026-09-11",
+  "lead_days": 0,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-12",
+  "component": "transmission",
+  "onset": "2026-10-19",
+  "failure": "2026-10-29",
+  "lead_days": 10,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "engine",
+  "onset": "2024-12-10",
+  "failure": "2024-12-10",
+  "lead_days": 0,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-27",
+  "failure": "2025-01-17",
+  "lead_days": 21,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-11",
+  "failure": "2025-03-07",
+  "lead_days": 24,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "suspension",
+  "onset": "2025-02-18",
+  "failure": "2025-03-14",
+  "lead_days": 24,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-31",
+  "failure": "2025-06-08",
+  "lead_days": 8,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "suspension",
+  "onset": "2025-06-04",
+  "failure": "2025-06-27",
+  "lead_days": 23,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "suspension",
+  "onset": "2025-08-08",
+  "failure": "2025-08-14",
+  "lead_days": 6,
+  "amplitude": 1.29
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "suspension",
+  "onset": "2025-08-24",
+  "failure": "2025-09-04",
+  "lead_days": 11,
+  "amplitude": 0.49
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "transmission",
+  "onset": "2025-09-11",
+  "failure": "2025-10-01",
+  "lead_days": 20,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-25",
+  "failure": "2025-11-25",
+  "lead_days": 0,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "suspension",
+  "onset": "2026-01-24",
+  "failure": "2026-02-08",
+  "lead_days": 15,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-25",
+  "failure": "2026-07-25",
+  "lead_days": 0,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "engine",
+  "onset": "2026-08-02",
+  "failure": "2026-08-20",
+  "lead_days": 18,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "suspension",
+  "onset": "2026-08-16",
+  "failure": "2026-09-06",
+  "lead_days": 21,
+  "amplitude": 0.48
+ },
+ {
+  "truck_id": "HT-13",
+  "component": "hydraulics_brakes",
+  "onset": "2026-10-18",
+  "failure": "2026-10-31",
+  "lead_days": 13,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "engine",
+  "onset": "2024-11-21",
+  "failure": "2024-12-02",
+  "lead_days": 11,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "suspension",
+  "onset": "2025-01-15",
+  "failure": "2025-01-15",
+  "lead_days": 0,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-08",
+  "failure": "2025-04-26",
+  "lead_days": 18,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "transmission",
+  "onset": "2025-04-18",
+  "failure": "2025-05-12",
+  "lead_days": 24,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "suspension",
+  "onset": "2025-05-17",
+  "failure": "2025-05-23",
+  "lead_days": 6,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "engine",
+  "onset": "2025-05-30",
+  "failure": "2025-06-21",
+  "lead_days": 22,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "engine",
+  "onset": "2025-08-22",
+  "failure": "2025-08-22",
+  "lead_days": 0,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-19",
+  "failure": "2026-01-19",
+  "lead_days": 0,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-06",
+  "failure": "2026-03-27",
+  "lead_days": 21,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-02",
+  "failure": "2026-04-14",
+  "lead_days": 12,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "engine",
+  "onset": "2026-03-27",
+  "failure": "2026-04-19",
+  "lead_days": 23,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "transmission",
+  "onset": "2026-05-09",
+  "failure": "2026-06-01",
+  "lead_days": 23,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "engine",
+  "onset": "2026-06-30",
+  "failure": "2026-07-11",
+  "lead_days": 11,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "suspension",
+  "onset": "2026-07-28",
+  "failure": "2026-07-28",
+  "lead_days": 0,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-14",
+  "component": "engine",
+  "onset": "2026-10-13",
+  "failure": "2026-10-18",
+  "lead_days": 5,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "transmission",
+  "onset": "2024-11-13",
+  "failure": "2024-11-27",
+  "lead_days": 14,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-09",
+  "failure": "2024-12-18",
+  "lead_days": 9,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-19",
+  "failure": "2025-01-31",
+  "lead_days": 12,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "transmission",
+  "onset": "2025-02-11",
+  "failure": "2025-02-11",
+  "lead_days": 0,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "suspension",
+  "onset": "2025-02-03",
+  "failure": "2025-02-16",
+  "lead_days": 13,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "suspension",
+  "onset": "2025-04-16",
+  "failure": "2025-04-22",
+  "lead_days": 6,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "engine",
+  "onset": "2025-05-15",
+  "failure": "2025-06-04",
+  "lead_days": 20,
+  "amplitude": 0.8
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "suspension",
+  "onset": "2025-06-11",
+  "failure": "2025-06-11",
+  "lead_days": 0,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "engine",
+  "onset": "2025-06-28",
+  "failure": "2025-06-28",
+  "lead_days": 0,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "suspension",
+  "onset": "2025-07-13",
+  "failure": "2025-07-13",
+  "lead_days": 0,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "engine",
+  "onset": "2025-07-11",
+  "failure": "2025-07-20",
+  "lead_days": 9,
+  "amplitude": 0.68
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "transmission",
+  "onset": "2025-07-17",
+  "failure": "2025-08-03",
+  "lead_days": 17,
+  "amplitude": 1.05
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "transmission",
+  "onset": "2025-11-15",
+  "failure": "2025-11-28",
+  "lead_days": 13,
+  "amplitude": 0.48
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "transmission",
+  "onset": "2026-01-16",
+  "failure": "2026-02-07",
+  "lead_days": 22,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-30",
+  "failure": "2026-02-20",
+  "lead_days": 21,
+  "amplitude": 0.49
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "engine",
+  "onset": "2026-03-19",
+  "failure": "2026-03-31",
+  "lead_days": 12,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "transmission",
+  "onset": "2026-04-14",
+  "failure": "2026-05-04",
+  "lead_days": 20,
+  "amplitude": 1.02
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "suspension",
+  "onset": "2026-08-19",
+  "failure": "2026-08-31",
+  "lead_days": 12,
+  "amplitude": 0.94
+ },
+ {
+  "truck_id": "HT-15",
+  "component": "engine",
+  "onset": "2026-09-23",
+  "failure": "2026-10-18",
+  "lead_days": 25,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "transmission",
+  "onset": "2024-12-20",
+  "failure": "2025-01-12",
+  "lead_days": 23,
+  "amplitude": 0.72
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "suspension",
+  "onset": "2025-07-04",
+  "failure": "2025-07-23",
+  "lead_days": 19,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "engine",
+  "onset": "2025-12-27",
+  "failure": "2025-12-27",
+  "lead_days": 0,
+  "amplitude": 0.88
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "suspension",
+  "onset": "2026-01-31",
+  "failure": "2026-01-31",
+  "lead_days": 0,
+  "amplitude": 1.0
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "suspension",
+  "onset": "2026-04-15",
+  "failure": "2026-04-21",
+  "lead_days": 6,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "transmission",
+  "onset": "2026-05-06",
+  "failure": "2026-05-25",
+  "lead_days": 19,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "engine",
+  "onset": "2026-05-07",
+  "failure": "2026-06-01",
+  "lead_days": 25,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-16",
+  "component": "transmission",
+  "onset": "2026-09-04",
+  "failure": "2026-09-19",
+  "lead_days": 15,
+  "amplitude": 1.18
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "transmission",
+  "onset": "2024-12-27",
+  "failure": "2025-01-17",
+  "lead_days": 21,
+  "amplitude": 0.48
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-25",
+  "failure": "2025-01-25",
+  "lead_days": 0,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "suspension",
+  "onset": "2025-07-24",
+  "failure": "2025-08-08",
+  "lead_days": 15,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "engine",
+  "onset": "2025-10-16",
+  "failure": "2025-11-05",
+  "lead_days": 20,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "suspension",
+  "onset": "2025-12-03",
+  "failure": "2025-12-28",
+  "lead_days": 25,
+  "amplitude": 0.42
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "engine",
+  "onset": "2026-03-08",
+  "failure": "2026-03-08",
+  "lead_days": 0,
+  "amplitude": 1.3
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "engine",
+  "onset": "2026-04-05",
+  "failure": "2026-04-14",
+  "lead_days": 9,
+  "amplitude": 1.03
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-17",
+  "failure": "2026-07-01",
+  "lead_days": 14,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-07",
+  "failure": "2026-07-12",
+  "lead_days": 5,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "suspension",
+  "onset": "2026-08-12",
+  "failure": "2026-08-12",
+  "lead_days": 0,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-17",
+  "component": "hydraulics_brakes",
+  "onset": "2026-10-15",
+  "failure": "2026-10-15",
+  "lead_days": 0,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-18",
+  "component": "suspension",
+  "onset": "2025-05-27",
+  "failure": "2025-06-19",
+  "lead_days": 23,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-18",
+  "component": "engine",
+  "onset": "2025-06-15",
+  "failure": "2025-07-03",
+  "lead_days": 18,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-18",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-01",
+  "failure": "2025-08-16",
+  "lead_days": 15,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-18",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-01",
+  "failure": "2026-03-09",
+  "lead_days": 8,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-18",
+  "component": "suspension",
+  "onset": "2026-05-17",
+  "failure": "2026-06-08",
+  "lead_days": 22,
+  "amplitude": 0.46
+ },
+ {
+  "truck_id": "HT-18",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-03",
+  "failure": "2026-09-21",
+  "lead_days": 18,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-23",
+  "failure": "2024-12-23",
+  "lead_days": 0,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "suspension",
+  "onset": "2025-08-15",
+  "failure": "2025-08-24",
+  "lead_days": 9,
+  "amplitude": 0.46
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "engine",
+  "onset": "2025-10-25",
+  "failure": "2025-11-06",
+  "lead_days": 12,
+  "amplitude": 0.93
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "suspension",
+  "onset": "2025-12-15",
+  "failure": "2025-12-28",
+  "lead_days": 13,
+  "amplitude": 1.27
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "engine",
+  "onset": "2026-01-02",
+  "failure": "2026-01-25",
+  "lead_days": 23,
+  "amplitude": 1.11
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-02",
+  "failure": "2026-02-07",
+  "lead_days": 5,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-15",
+  "failure": "2026-07-08",
+  "lead_days": 23,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "engine",
+  "onset": "2026-08-21",
+  "failure": "2026-09-02",
+  "lead_days": 12,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-19",
+  "component": "transmission",
+  "onset": "2026-08-28",
+  "failure": "2026-09-21",
+  "lead_days": 24,
+  "amplitude": 0.61
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "suspension",
+  "onset": "2024-11-11",
+  "failure": "2024-11-30",
+  "lead_days": 19,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-22",
+  "failure": "2025-01-01",
+  "lead_days": 10,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "suspension",
+  "onset": "2024-12-23",
+  "failure": "2025-01-05",
+  "lead_days": 13,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "suspension",
+  "onset": "2025-05-05",
+  "failure": "2025-05-27",
+  "lead_days": 22,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "engine",
+  "onset": "2025-08-22",
+  "failure": "2025-09-06",
+  "lead_days": 15,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "suspension",
+  "onset": "2025-11-07",
+  "failure": "2025-11-18",
+  "lead_days": 11,
+  "amplitude": 0.87
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-28",
+  "failure": "2025-12-23",
+  "lead_days": 25,
+  "amplitude": 0.61
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-17",
+  "failure": "2026-01-31",
+  "lead_days": 14,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-20",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-31",
+  "failure": "2026-09-09",
+  "lead_days": 9,
+  "amplitude": 0.68
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-26",
+  "failure": "2025-02-26",
+  "lead_days": 0,
+  "amplitude": 1.11
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "suspension",
+  "onset": "2025-03-29",
+  "failure": "2025-04-12",
+  "lead_days": 14,
+  "amplitude": 1.02
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-02",
+  "failure": "2025-05-23",
+  "lead_days": 21,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "engine",
+  "onset": "2025-05-20",
+  "failure": "2025-06-11",
+  "lead_days": 22,
+  "amplitude": 0.84
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "suspension",
+  "onset": "2025-06-01",
+  "failure": "2025-06-16",
+  "lead_days": 15,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "engine",
+  "onset": "2025-08-22",
+  "failure": "2025-09-04",
+  "lead_days": 13,
+  "amplitude": 0.64
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "transmission",
+  "onset": "2025-10-12",
+  "failure": "2025-10-20",
+  "lead_days": 8,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-11",
+  "failure": "2025-11-11",
+  "lead_days": 0,
+  "amplitude": 0.56
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "engine",
+  "onset": "2026-01-09",
+  "failure": "2026-02-03",
+  "lead_days": 25,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "suspension",
+  "onset": "2026-02-23",
+  "failure": "2026-02-23",
+  "lead_days": 0,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "transmission",
+  "onset": "2026-04-19",
+  "failure": "2026-05-01",
+  "lead_days": 12,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-09",
+  "failure": "2026-05-09",
+  "lead_days": 0,
+  "amplitude": 0.98
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "engine",
+  "onset": "2026-07-06",
+  "failure": "2026-07-22",
+  "lead_days": 16,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "suspension",
+  "onset": "2026-08-20",
+  "failure": "2026-09-06",
+  "lead_days": 17,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-21",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-30",
+  "failure": "2026-10-23",
+  "lead_days": 23,
+  "amplitude": 1.1
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-11",
+  "failure": "2025-02-03",
+  "lead_days": 23,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "transmission",
+  "onset": "2025-05-13",
+  "failure": "2025-05-13",
+  "lead_days": 0,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "suspension",
+  "onset": "2025-06-05",
+  "failure": "2025-06-22",
+  "lead_days": 17,
+  "amplitude": 0.4
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "engine",
+  "onset": "2025-06-30",
+  "failure": "2025-07-12",
+  "lead_days": 12,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-23",
+  "failure": "2025-09-14",
+  "lead_days": 22,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-10",
+  "failure": "2026-02-21",
+  "lead_days": 11,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "engine",
+  "onset": "2026-03-29",
+  "failure": "2026-04-03",
+  "lead_days": 5,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "suspension",
+  "onset": "2026-05-13",
+  "failure": "2026-05-13",
+  "lead_days": 0,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-26",
+  "failure": "2026-05-16",
+  "lead_days": 20,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-14",
+  "failure": "2026-08-29",
+  "lead_days": 15,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-22",
+  "component": "suspension",
+  "onset": "2026-10-05",
+  "failure": "2026-10-25",
+  "lead_days": 20,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "engine",
+  "onset": "2025-06-24",
+  "failure": "2025-07-05",
+  "lead_days": 11,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-30",
+  "failure": "2025-07-11",
+  "lead_days": 11,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-26",
+  "failure": "2025-08-17",
+  "lead_days": 22,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-24",
+  "failure": "2025-09-24",
+  "lead_days": 0,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-26",
+  "failure": "2025-11-26",
+  "lead_days": 0,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "engine",
+  "onset": "2026-01-13",
+  "failure": "2026-02-06",
+  "lead_days": 24,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "suspension",
+  "onset": "2026-03-18",
+  "failure": "2026-03-26",
+  "lead_days": 8,
+  "amplitude": 1.0
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-21",
+  "failure": "2026-05-21",
+  "lead_days": 0,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-13",
+  "failure": "2026-07-23",
+  "lead_days": 10,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "suspension",
+  "onset": "2026-08-22",
+  "failure": "2026-08-22",
+  "lead_days": 0,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-23",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-27",
+  "failure": "2026-10-17",
+  "lead_days": 20,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2024-11-04",
+  "failure": "2024-11-27",
+  "lead_days": 23,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "transmission",
+  "onset": "2024-11-19",
+  "failure": "2024-12-08",
+  "lead_days": 19,
+  "amplitude": 0.46
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-05",
+  "failure": "2024-12-30",
+  "lead_days": 25,
+  "amplitude": 0.79
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2024-12-22",
+  "failure": "2025-01-07",
+  "lead_days": 16,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2025-01-25",
+  "failure": "2025-02-14",
+  "lead_days": 20,
+  "amplitude": 0.8
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2025-02-24",
+  "failure": "2025-03-13",
+  "lead_days": 17,
+  "amplitude": 0.4
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "engine",
+  "onset": "2025-04-25",
+  "failure": "2025-05-09",
+  "lead_days": 14,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-16",
+  "failure": "2025-05-16",
+  "lead_days": 0,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-03",
+  "failure": "2025-06-26",
+  "lead_days": 23,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-10",
+  "failure": "2025-09-10",
+  "lead_days": 0,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "transmission",
+  "onset": "2025-10-02",
+  "failure": "2025-10-17",
+  "lead_days": 15,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2025-11-27",
+  "failure": "2025-12-14",
+  "lead_days": 17,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-17",
+  "failure": "2026-03-06",
+  "lead_days": 17,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "transmission",
+  "onset": "2026-03-26",
+  "failure": "2026-03-31",
+  "lead_days": 5,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-11",
+  "failure": "2026-04-03",
+  "lead_days": 23,
+  "amplitude": 1.23
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-01",
+  "failure": "2026-06-01",
+  "lead_days": 0,
+  "amplitude": 0.76
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "engine",
+  "onset": "2026-05-27",
+  "failure": "2026-06-17",
+  "lead_days": 21,
+  "amplitude": 0.48
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2026-06-30",
+  "failure": "2026-07-07",
+  "lead_days": 7,
+  "amplitude": 0.85
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "transmission",
+  "onset": "2026-08-25",
+  "failure": "2026-08-25",
+  "lead_days": 0,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-29",
+  "failure": "2026-08-29",
+  "lead_days": 0,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2026-09-12",
+  "failure": "2026-09-17",
+  "lead_days": 5,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-24",
+  "component": "suspension",
+  "onset": "2026-10-09",
+  "failure": "2026-10-16",
+  "lead_days": 7,
+  "amplitude": 1.23
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "transmission",
+  "onset": "2024-12-03",
+  "failure": "2024-12-20",
+  "lead_days": 17,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-19",
+  "failure": "2024-12-25",
+  "lead_days": 6,
+  "amplitude": 0.46
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-05",
+  "failure": "2025-01-05",
+  "lead_days": 0,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "suspension",
+  "onset": "2025-05-31",
+  "failure": "2025-05-31",
+  "lead_days": 0,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-20",
+  "failure": "2025-07-15",
+  "lead_days": 25,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "transmission",
+  "onset": "2025-10-26",
+  "failure": "2025-10-31",
+  "lead_days": 5,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-19",
+  "failure": "2025-11-19",
+  "lead_days": 0,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "suspension",
+  "onset": "2025-11-18",
+  "failure": "2025-12-11",
+  "lead_days": 23,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "hydraulics_brakes",
+  "onset": "2025-12-09",
+  "failure": "2025-12-22",
+  "lead_days": 13,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "engine",
+  "onset": "2026-02-27",
+  "failure": "2026-03-07",
+  "lead_days": 8,
+  "amplitude": 0.87
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "transmission",
+  "onset": "2026-02-24",
+  "failure": "2026-03-15",
+  "lead_days": 19,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "transmission",
+  "onset": "2026-06-14",
+  "failure": "2026-06-29",
+  "lead_days": 15,
+  "amplitude": 0.82
+ },
+ {
+  "truck_id": "HT-25",
+  "component": "engine",
+  "onset": "2026-08-21",
+  "failure": "2026-08-30",
+  "lead_days": 9,
+  "amplitude": 0.87
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "transmission",
+  "onset": "2024-11-06",
+  "failure": "2024-11-12",
+  "lead_days": 6,
+  "amplitude": 0.49
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "engine",
+  "onset": "2024-12-14",
+  "failure": "2024-12-20",
+  "lead_days": 6,
+  "amplitude": 0.98
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "transmission",
+  "onset": "2025-02-09",
+  "failure": "2025-02-22",
+  "lead_days": 13,
+  "amplitude": 0.8
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-09",
+  "failure": "2025-02-25",
+  "lead_days": 16,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "hydraulics_brakes",
+  "onset": "2025-03-04",
+  "failure": "2025-03-29",
+  "lead_days": 25,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "suspension",
+  "onset": "2025-06-16",
+  "failure": "2025-06-24",
+  "lead_days": 8,
+  "amplitude": 0.62
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-04",
+  "failure": "2025-09-21",
+  "lead_days": 17,
+  "amplitude": 1.1
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "suspension",
+  "onset": "2025-09-19",
+  "failure": "2025-10-07",
+  "lead_days": 18,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "engine",
+  "onset": "2025-10-11",
+  "failure": "2025-10-19",
+  "lead_days": 8,
+  "amplitude": 1.19
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "suspension",
+  "onset": "2025-10-30",
+  "failure": "2025-11-19",
+  "lead_days": 20,
+  "amplitude": 0.56
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-26",
+  "failure": "2026-02-26",
+  "lead_days": 0,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-18",
+  "failure": "2026-05-08",
+  "lead_days": 20,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "transmission",
+  "onset": "2026-05-07",
+  "failure": "2026-05-26",
+  "lead_days": 19,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "engine",
+  "onset": "2026-05-29",
+  "failure": "2026-06-19",
+  "lead_days": 21,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-26",
+  "component": "suspension",
+  "onset": "2026-08-02",
+  "failure": "2026-08-02",
+  "lead_days": 0,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2025-01-01",
+  "failure": "2025-01-23",
+  "lead_days": 22,
+  "amplitude": 0.94
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-09",
+  "failure": "2025-04-16",
+  "lead_days": 7,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2025-04-18",
+  "failure": "2025-04-29",
+  "lead_days": 11,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2025-05-27",
+  "failure": "2025-05-27",
+  "lead_days": 0,
+  "amplitude": 0.88
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2025-06-16",
+  "failure": "2025-06-16",
+  "lead_days": 0,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "transmission",
+  "onset": "2025-07-21",
+  "failure": "2025-08-03",
+  "lead_days": 13,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-20",
+  "failure": "2025-09-06",
+  "lead_days": 17,
+  "amplitude": 0.61
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2025-08-31",
+  "failure": "2025-09-19",
+  "lead_days": 19,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "transmission",
+  "onset": "2025-08-27",
+  "failure": "2025-09-21",
+  "lead_days": 25,
+  "amplitude": 0.46
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-21",
+  "failure": "2025-09-21",
+  "lead_days": 0,
+  "amplitude": 0.62
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "engine",
+  "onset": "2025-12-29",
+  "failure": "2026-01-21",
+  "lead_days": 23,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "transmission",
+  "onset": "2026-02-02",
+  "failure": "2026-02-13",
+  "lead_days": 11,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-21",
+  "failure": "2026-03-29",
+  "lead_days": 8,
+  "amplitude": 0.77
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2026-04-27",
+  "failure": "2026-05-09",
+  "lead_days": 12,
+  "amplitude": 1.05
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2026-06-05",
+  "failure": "2026-06-19",
+  "lead_days": 14,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2026-07-02",
+  "failure": "2026-07-12",
+  "lead_days": 10,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-27",
+  "component": "suspension",
+  "onset": "2026-09-22",
+  "failure": "2026-09-28",
+  "lead_days": 6,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "engine",
+  "onset": "2024-12-08",
+  "failure": "2024-12-26",
+  "lead_days": 18,
+  "amplitude": 0.79
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-24",
+  "failure": "2025-01-09",
+  "lead_days": 16,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-01",
+  "failure": "2025-05-24",
+  "lead_days": 23,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-08",
+  "failure": "2025-06-21",
+  "lead_days": 13,
+  "amplitude": 0.78
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "suspension",
+  "onset": "2025-09-04",
+  "failure": "2025-09-12",
+  "lead_days": 8,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "engine",
+  "onset": "2025-09-28",
+  "failure": "2025-10-12",
+  "lead_days": 14,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "suspension",
+  "onset": "2025-10-24",
+  "failure": "2025-11-01",
+  "lead_days": 8,
+  "amplitude": 1.18
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "suspension",
+  "onset": "2025-12-23",
+  "failure": "2026-01-17",
+  "lead_days": 25,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-04",
+  "failure": "2026-03-13",
+  "lead_days": 9,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-29",
+  "failure": "2026-04-22",
+  "lead_days": 24,
+  "amplitude": 1.19
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "suspension",
+  "onset": "2026-07-10",
+  "failure": "2026-07-10",
+  "lead_days": 0,
+  "amplitude": 1.1
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-17",
+  "failure": "2026-07-24",
+  "lead_days": 7,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "suspension",
+  "onset": "2026-08-07",
+  "failure": "2026-08-29",
+  "lead_days": 22,
+  "amplitude": 0.94
+ },
+ {
+  "truck_id": "HT-28",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-17",
+  "failure": "2026-09-29",
+  "lead_days": 12,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "engine",
+  "onset": "2025-02-01",
+  "failure": "2025-02-16",
+  "lead_days": 15,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "suspension",
+  "onset": "2025-04-14",
+  "failure": "2025-04-26",
+  "lead_days": 12,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "engine",
+  "onset": "2025-05-08",
+  "failure": "2025-05-13",
+  "lead_days": 5,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "suspension",
+  "onset": "2025-05-28",
+  "failure": "2025-05-28",
+  "lead_days": 0,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "suspension",
+  "onset": "2025-07-15",
+  "failure": "2025-07-22",
+  "lead_days": 7,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "transmission",
+  "onset": "2025-08-01",
+  "failure": "2025-08-07",
+  "lead_days": 6,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "engine",
+  "onset": "2025-08-30",
+  "failure": "2025-09-04",
+  "lead_days": 5,
+  "amplitude": 0.67
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "hydraulics_brakes",
+  "onset": "2025-10-27",
+  "failure": "2025-11-10",
+  "lead_days": 14,
+  "amplitude": 1.23
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "suspension",
+  "onset": "2026-04-17",
+  "failure": "2026-05-03",
+  "lead_days": 16,
+  "amplitude": 0.83
+ },
+ {
+  "truck_id": "HT-29",
+  "component": "engine",
+  "onset": "2026-07-25",
+  "failure": "2026-08-14",
+  "lead_days": 20,
+  "amplitude": 0.7
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "suspension",
+  "onset": "2025-01-06",
+  "failure": "2025-01-06",
+  "lead_days": 0,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "suspension",
+  "onset": "2025-01-12",
+  "failure": "2025-01-23",
+  "lead_days": 11,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "hydraulics_brakes",
+  "onset": "2025-03-31",
+  "failure": "2025-03-31",
+  "lead_days": 0,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-30",
+  "failure": "2025-05-16",
+  "lead_days": 16,
+  "amplitude": 0.9
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-11",
+  "failure": "2025-06-16",
+  "lead_days": 5,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-03",
+  "failure": "2025-07-03",
+  "lead_days": 0,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "transmission",
+  "onset": "2025-07-09",
+  "failure": "2025-08-01",
+  "lead_days": 23,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "engine",
+  "onset": "2025-09-19",
+  "failure": "2025-09-19",
+  "lead_days": 0,
+  "amplitude": 0.88
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "transmission",
+  "onset": "2025-11-12",
+  "failure": "2025-11-23",
+  "lead_days": 11,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "suspension",
+  "onset": "2026-08-12",
+  "failure": "2026-08-20",
+  "lead_days": 8,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-30",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-16",
+  "failure": "2026-09-16",
+  "lead_days": 0,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "suspension",
+  "onset": "2025-02-20",
+  "failure": "2025-03-15",
+  "lead_days": 23,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "engine",
+  "onset": "2025-04-14",
+  "failure": "2025-05-03",
+  "lead_days": 19,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "suspension",
+  "onset": "2025-07-11",
+  "failure": "2025-08-03",
+  "lead_days": 23,
+  "amplitude": 1.0
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-25",
+  "failure": "2025-10-10",
+  "lead_days": 15,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "engine",
+  "onset": "2025-11-25",
+  "failure": "2025-12-02",
+  "lead_days": 7,
+  "amplitude": 1.08
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "transmission",
+  "onset": "2026-05-01",
+  "failure": "2026-05-19",
+  "lead_days": 18,
+  "amplitude": 0.94
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "suspension",
+  "onset": "2026-05-10",
+  "failure": "2026-05-29",
+  "lead_days": 19,
+  "amplitude": 0.79
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-02",
+  "failure": "2026-08-18",
+  "lead_days": 16,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "transmission",
+  "onset": "2026-08-27",
+  "failure": "2026-09-05",
+  "lead_days": 9,
+  "amplitude": 0.98
+ },
+ {
+  "truck_id": "HT-31",
+  "component": "engine",
+  "onset": "2026-09-21",
+  "failure": "2026-09-28",
+  "lead_days": 7,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "transmission",
+  "onset": "2024-11-10",
+  "failure": "2024-11-16",
+  "lead_days": 6,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2024-11-13",
+  "failure": "2024-12-02",
+  "lead_days": 19,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2024-12-28",
+  "failure": "2024-12-28",
+  "lead_days": 0,
+  "amplitude": 0.78
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2025-01-12",
+  "failure": "2025-01-12",
+  "lead_days": 0,
+  "amplitude": 0.88
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "transmission",
+  "onset": "2025-01-14",
+  "failure": "2025-01-19",
+  "lead_days": 5,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "engine",
+  "onset": "2025-01-14",
+  "failure": "2025-02-07",
+  "lead_days": 24,
+  "amplitude": 1.12
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "transmission",
+  "onset": "2025-01-24",
+  "failure": "2025-02-14",
+  "lead_days": 21,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2025-01-29",
+  "failure": "2025-02-18",
+  "lead_days": 20,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "hydraulics_brakes",
+  "onset": "2025-03-13",
+  "failure": "2025-03-13",
+  "lead_days": 0,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "engine",
+  "onset": "2025-05-19",
+  "failure": "2025-05-19",
+  "lead_days": 0,
+  "amplitude": 0.78
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2025-05-16",
+  "failure": "2025-05-26",
+  "lead_days": 10,
+  "amplitude": 0.56
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "engine",
+  "onset": "2025-06-20",
+  "failure": "2025-06-26",
+  "lead_days": 6,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2025-07-19",
+  "failure": "2025-08-10",
+  "lead_days": 22,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "transmission",
+  "onset": "2025-08-20",
+  "failure": "2025-09-05",
+  "lead_days": 16,
+  "amplitude": 1.23
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-03",
+  "failure": "2025-09-23",
+  "lead_days": 20,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "transmission",
+  "onset": "2025-09-28",
+  "failure": "2025-10-14",
+  "lead_days": 16,
+  "amplitude": 0.8
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-28",
+  "failure": "2025-10-18",
+  "lead_days": 20,
+  "amplitude": 0.72
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2025-11-10",
+  "failure": "2025-11-19",
+  "lead_days": 9,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "engine",
+  "onset": "2026-02-10",
+  "failure": "2026-02-10",
+  "lead_days": 0,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2026-05-03",
+  "failure": "2026-05-13",
+  "lead_days": 10,
+  "amplitude": 0.77
+ },
+ {
+  "truck_id": "HT-32",
+  "component": "suspension",
+  "onset": "2026-06-18",
+  "failure": "2026-07-02",
+  "lead_days": 14,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "suspension",
+  "onset": "2024-12-31",
+  "failure": "2025-01-07",
+  "lead_days": 7,
+  "amplitude": 0.58
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "engine",
+  "onset": "2025-01-14",
+  "failure": "2025-02-02",
+  "lead_days": 19,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "suspension",
+  "onset": "2025-05-11",
+  "failure": "2025-05-25",
+  "lead_days": 14,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "engine",
+  "onset": "2025-06-10",
+  "failure": "2025-07-04",
+  "lead_days": 24,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "suspension",
+  "onset": "2026-01-02",
+  "failure": "2026-01-07",
+  "lead_days": 5,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "suspension",
+  "onset": "2026-03-19",
+  "failure": "2026-04-01",
+  "lead_days": 13,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "engine",
+  "onset": "2026-04-19",
+  "failure": "2026-05-08",
+  "lead_days": 19,
+  "amplitude": 0.48
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "engine",
+  "onset": "2026-06-25",
+  "failure": "2026-07-06",
+  "lead_days": 11,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "engine",
+  "onset": "2026-09-29",
+  "failure": "2026-10-20",
+  "lead_days": 21,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-33",
+  "component": "transmission",
+  "onset": "2026-10-30",
+  "failure": "2026-10-30",
+  "lead_days": 0,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "transmission",
+  "onset": "2024-11-13",
+  "failure": "2024-12-01",
+  "lead_days": 18,
+  "amplitude": 0.78
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "transmission",
+  "onset": "2024-12-18",
+  "failure": "2024-12-27",
+  "lead_days": 9,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "engine",
+  "onset": "2025-02-17",
+  "failure": "2025-02-17",
+  "lead_days": 0,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "suspension",
+  "onset": "2025-02-21",
+  "failure": "2025-03-08",
+  "lead_days": 15,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "hydraulics_brakes",
+  "onset": "2025-03-23",
+  "failure": "2025-04-08",
+  "lead_days": 16,
+  "amplitude": 1.03
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-12",
+  "failure": "2025-05-28",
+  "lead_days": 16,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "suspension",
+  "onset": "2025-06-28",
+  "failure": "2025-07-03",
+  "lead_days": 5,
+  "amplitude": 0.62
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "transmission",
+  "onset": "2025-08-22",
+  "failure": "2025-08-22",
+  "lead_days": 0,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "suspension",
+  "onset": "2025-08-08",
+  "failure": "2025-08-31",
+  "lead_days": 23,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-28",
+  "failure": "2025-09-04",
+  "lead_days": 7,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "suspension",
+  "onset": "2025-11-12",
+  "failure": "2025-12-03",
+  "lead_days": 21,
+  "amplitude": 0.67
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "suspension",
+  "onset": "2026-01-08",
+  "failure": "2026-01-24",
+  "lead_days": 16,
+  "amplitude": 0.67
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "transmission",
+  "onset": "2026-01-16",
+  "failure": "2026-02-10",
+  "lead_days": 25,
+  "amplitude": 0.42
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-17",
+  "failure": "2026-07-12",
+  "lead_days": 25,
+  "amplitude": 0.7
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-20",
+  "failure": "2026-09-25",
+  "lead_days": 5,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-34",
+  "component": "suspension",
+  "onset": "2026-10-10",
+  "failure": "2026-10-23",
+  "lead_days": 13,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "engine",
+  "onset": "2024-11-08",
+  "failure": "2024-11-24",
+  "lead_days": 16,
+  "amplitude": 1.03
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "hydraulics_brakes",
+  "onset": "2025-01-24",
+  "failure": "2025-01-24",
+  "lead_days": 0,
+  "amplitude": 0.62
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-25",
+  "failure": "2025-02-25",
+  "lead_days": 0,
+  "amplitude": 1.0
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "transmission",
+  "onset": "2025-03-01",
+  "failure": "2025-03-19",
+  "lead_days": 18,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "suspension",
+  "onset": "2025-03-26",
+  "failure": "2025-03-26",
+  "lead_days": 0,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "transmission",
+  "onset": "2025-11-26",
+  "failure": "2025-12-14",
+  "lead_days": 18,
+  "amplitude": 1.27
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "transmission",
+  "onset": "2025-12-22",
+  "failure": "2026-01-16",
+  "lead_days": 25,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "suspension",
+  "onset": "2026-01-14",
+  "failure": "2026-02-06",
+  "lead_days": 23,
+  "amplitude": 1.19
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "transmission",
+  "onset": "2026-04-12",
+  "failure": "2026-04-24",
+  "lead_days": 12,
+  "amplitude": 0.45
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-27",
+  "failure": "2026-04-27",
+  "lead_days": 0,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "suspension",
+  "onset": "2026-05-01",
+  "failure": "2026-05-07",
+  "lead_days": 6,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "suspension",
+  "onset": "2026-07-04",
+  "failure": "2026-07-16",
+  "lead_days": 12,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-35",
+  "component": "engine",
+  "onset": "2026-09-10",
+  "failure": "2026-09-16",
+  "lead_days": 6,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "suspension",
+  "onset": "2024-11-27",
+  "failure": "2024-12-11",
+  "lead_days": 14,
+  "amplitude": 0.76
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "suspension",
+  "onset": "2025-03-03",
+  "failure": "2025-03-18",
+  "lead_days": 15,
+  "amplitude": 0.85
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "transmission",
+  "onset": "2025-11-19",
+  "failure": "2025-11-24",
+  "lead_days": 5,
+  "amplitude": 1.08
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "suspension",
+  "onset": "2025-11-21",
+  "failure": "2025-12-09",
+  "lead_days": 18,
+  "amplitude": 1.19
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "suspension",
+  "onset": "2026-03-07",
+  "failure": "2026-03-24",
+  "lead_days": 17,
+  "amplitude": 0.98
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "transmission",
+  "onset": "2026-06-06",
+  "failure": "2026-06-28",
+  "lead_days": 22,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-36",
+  "component": "suspension",
+  "onset": "2026-10-08",
+  "failure": "2026-10-25",
+  "lead_days": 17,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "transmission",
+  "onset": "2024-11-02",
+  "failure": "2024-11-08",
+  "lead_days": 6,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "suspension",
+  "onset": "2025-03-05",
+  "failure": "2025-03-11",
+  "lead_days": 6,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "suspension",
+  "onset": "2025-05-02",
+  "failure": "2025-05-02",
+  "lead_days": 0,
+  "amplitude": 0.72
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "engine",
+  "onset": "2025-04-11",
+  "failure": "2025-05-04",
+  "lead_days": 23,
+  "amplitude": 0.77
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "suspension",
+  "onset": "2025-06-07",
+  "failure": "2025-06-12",
+  "lead_days": 5,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "suspension",
+  "onset": "2025-08-23",
+  "failure": "2025-09-07",
+  "lead_days": 15,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "transmission",
+  "onset": "2025-09-25",
+  "failure": "2025-10-03",
+  "lead_days": 8,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "suspension",
+  "onset": "2026-01-03",
+  "failure": "2026-01-16",
+  "lead_days": 13,
+  "amplitude": 1.23
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-24",
+  "failure": "2026-02-24",
+  "lead_days": 0,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-24",
+  "failure": "2026-04-08",
+  "lead_days": 15,
+  "amplitude": 1.0
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-26",
+  "failure": "2026-09-04",
+  "lead_days": 9,
+  "amplitude": 1.11
+ },
+ {
+  "truck_id": "HT-37",
+  "component": "suspension",
+  "onset": "2026-08-18",
+  "failure": "2026-09-10",
+  "lead_days": 23,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "suspension",
+  "onset": "2024-11-23",
+  "failure": "2024-12-18",
+  "lead_days": 25,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "transmission",
+  "onset": "2024-12-25",
+  "failure": "2025-01-10",
+  "lead_days": 16,
+  "amplitude": 1.1
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "suspension",
+  "onset": "2025-02-13",
+  "failure": "2025-02-13",
+  "lead_days": 0,
+  "amplitude": 1.11
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "suspension",
+  "onset": "2025-02-22",
+  "failure": "2025-03-19",
+  "lead_days": 25,
+  "amplitude": 0.93
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "suspension",
+  "onset": "2025-04-29",
+  "failure": "2025-05-04",
+  "lead_days": 5,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "suspension",
+  "onset": "2025-05-26",
+  "failure": "2025-06-09",
+  "lead_days": 14,
+  "amplitude": 1.27
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "transmission",
+  "onset": "2025-08-02",
+  "failure": "2025-08-24",
+  "lead_days": 22,
+  "amplitude": 0.78
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-03",
+  "failure": "2025-11-12",
+  "lead_days": 9,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-28",
+  "failure": "2025-12-22",
+  "lead_days": 24,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-11",
+  "failure": "2026-01-11",
+  "lead_days": 0,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "suspension",
+  "onset": "2026-02-15",
+  "failure": "2026-02-28",
+  "lead_days": 13,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "engine",
+  "onset": "2026-04-08",
+  "failure": "2026-04-18",
+  "lead_days": 10,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "engine",
+  "onset": "2026-06-14",
+  "failure": "2026-06-22",
+  "lead_days": 8,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "transmission",
+  "onset": "2026-07-18",
+  "failure": "2026-08-07",
+  "lead_days": 20,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-38",
+  "component": "engine",
+  "onset": "2026-08-04",
+  "failure": "2026-08-27",
+  "lead_days": 23,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2025-01-28",
+  "failure": "2025-02-15",
+  "lead_days": 18,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2025-03-09",
+  "failure": "2025-03-27",
+  "lead_days": 18,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2025-04-26",
+  "failure": "2025-05-13",
+  "lead_days": 17,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2025-08-26",
+  "failure": "2025-09-06",
+  "lead_days": 11,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "engine",
+  "onset": "2025-10-15",
+  "failure": "2025-10-15",
+  "lead_days": 0,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2025-11-11",
+  "failure": "2025-11-11",
+  "lead_days": 0,
+  "amplitude": 0.87
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2026-01-31",
+  "failure": "2026-02-09",
+  "lead_days": 9,
+  "amplitude": 0.43
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-24",
+  "failure": "2026-05-18",
+  "lead_days": 24,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "suspension",
+  "onset": "2026-07-06",
+  "failure": "2026-07-06",
+  "lead_days": 0,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "engine",
+  "onset": "2026-06-21",
+  "failure": "2026-07-09",
+  "lead_days": 18,
+  "amplitude": 1.14
+ },
+ {
+  "truck_id": "HT-39",
+  "component": "engine",
+  "onset": "2026-09-29",
+  "failure": "2026-10-12",
+  "lead_days": 13,
+  "amplitude": 0.85
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "engine",
+  "onset": "2024-11-19",
+  "failure": "2024-11-19",
+  "lead_days": 0,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "engine",
+  "onset": "2024-12-03",
+  "failure": "2024-12-20",
+  "lead_days": 17,
+  "amplitude": 0.71
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "transmission",
+  "onset": "2025-01-08",
+  "failure": "2025-01-31",
+  "lead_days": 23,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "suspension",
+  "onset": "2025-05-07",
+  "failure": "2025-05-31",
+  "lead_days": 24,
+  "amplitude": 0.44
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "suspension",
+  "onset": "2025-07-04",
+  "failure": "2025-07-10",
+  "lead_days": 6,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-25",
+  "failure": "2025-08-05",
+  "lead_days": 11,
+  "amplitude": 0.85
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "hydraulics_brakes",
+  "onset": "2025-09-03",
+  "failure": "2025-09-17",
+  "lead_days": 14,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-07",
+  "failure": "2026-01-07",
+  "lead_days": 0,
+  "amplitude": 1.25
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "suspension",
+  "onset": "2026-02-14",
+  "failure": "2026-03-10",
+  "lead_days": 24,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-03",
+  "failure": "2026-05-27",
+  "lead_days": 24,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "engine",
+  "onset": "2026-07-08",
+  "failure": "2026-07-14",
+  "lead_days": 6,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-07",
+  "failure": "2026-07-21",
+  "lead_days": 14,
+  "amplitude": 1.23
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "engine",
+  "onset": "2026-07-30",
+  "failure": "2026-07-30",
+  "lead_days": 0,
+  "amplitude": 1.16
+ },
+ {
+  "truck_id": "HT-40",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-05",
+  "failure": "2026-08-05",
+  "lead_days": 0,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "transmission",
+  "onset": "2025-05-11",
+  "failure": "2025-05-30",
+  "lead_days": 19,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-10",
+  "failure": "2025-07-01",
+  "lead_days": 21,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "hydraulics_brakes",
+  "onset": "2025-11-23",
+  "failure": "2025-12-06",
+  "lead_days": 13,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "suspension",
+  "onset": "2025-12-16",
+  "failure": "2025-12-16",
+  "lead_days": 0,
+  "amplitude": 0.65
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-08",
+  "failure": "2026-01-08",
+  "lead_days": 0,
+  "amplitude": 0.58
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "hydraulics_brakes",
+  "onset": "2026-02-11",
+  "failure": "2026-02-21",
+  "lead_days": 10,
+  "amplitude": 0.82
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "engine",
+  "onset": "2026-03-24",
+  "failure": "2026-03-31",
+  "lead_days": 7,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "engine",
+  "onset": "2026-04-05",
+  "failure": "2026-04-23",
+  "lead_days": 18,
+  "amplitude": 1.08
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-21",
+  "failure": "2026-06-21",
+  "lead_days": 0,
+  "amplitude": 0.67
+ },
+ {
+  "truck_id": "HT-41",
+  "component": "engine",
+  "onset": "2026-08-19",
+  "failure": "2026-09-07",
+  "lead_days": 19,
+  "amplitude": 0.76
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "engine",
+  "onset": "2024-11-27",
+  "failure": "2024-12-11",
+  "lead_days": 14,
+  "amplitude": 0.89
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-01",
+  "failure": "2025-05-23",
+  "lead_days": 22,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "engine",
+  "onset": "2025-05-12",
+  "failure": "2025-05-29",
+  "lead_days": 17,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-02",
+  "failure": "2025-07-20",
+  "lead_days": 18,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "suspension",
+  "onset": "2025-07-22",
+  "failure": "2025-08-02",
+  "lead_days": 11,
+  "amplitude": 1.07
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "suspension",
+  "onset": "2025-12-24",
+  "failure": "2026-01-06",
+  "lead_days": 13,
+  "amplitude": 0.91
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-02",
+  "failure": "2026-07-19",
+  "lead_days": 17,
+  "amplitude": 0.97
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "hydraulics_brakes",
+  "onset": "2026-09-02",
+  "failure": "2026-09-16",
+  "lead_days": 14,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-42",
+  "component": "transmission",
+  "onset": "2026-09-07",
+  "failure": "2026-09-18",
+  "lead_days": 11,
+  "amplitude": 0.6
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "suspension",
+  "onset": "2024-12-03",
+  "failure": "2024-12-24",
+  "lead_days": 21,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-23",
+  "failure": "2025-08-05",
+  "lead_days": 13,
+  "amplitude": 0.66
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-24",
+  "failure": "2025-08-24",
+  "lead_days": 0,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "suspension",
+  "onset": "2025-12-13",
+  "failure": "2025-12-27",
+  "lead_days": 14,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "engine",
+  "onset": "2026-03-11",
+  "failure": "2026-03-24",
+  "lead_days": 13,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "transmission",
+  "onset": "2026-03-17",
+  "failure": "2026-04-10",
+  "lead_days": 24,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "hydraulics_brakes",
+  "onset": "2026-05-20",
+  "failure": "2026-05-20",
+  "lead_days": 0,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-43",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-16",
+  "failure": "2026-08-10",
+  "lead_days": 25,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "suspension",
+  "onset": "2024-12-03",
+  "failure": "2024-12-18",
+  "lead_days": 15,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "suspension",
+  "onset": "2025-01-25",
+  "failure": "2025-01-25",
+  "lead_days": 0,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-23",
+  "failure": "2025-02-23",
+  "lead_days": 0,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "engine",
+  "onset": "2025-02-26",
+  "failure": "2025-03-22",
+  "lead_days": 24,
+  "amplitude": 1.12
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-03",
+  "failure": "2025-04-18",
+  "lead_days": 15,
+  "amplitude": 1.01
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-07",
+  "failure": "2025-05-26",
+  "lead_days": 19,
+  "amplitude": 0.61
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "transmission",
+  "onset": "2025-06-06",
+  "failure": "2025-06-26",
+  "lead_days": 20,
+  "amplitude": 0.68
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-20",
+  "failure": "2025-07-20",
+  "lead_days": 0,
+  "amplitude": 1.27
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "engine",
+  "onset": "2025-08-09",
+  "failure": "2025-08-27",
+  "lead_days": 18,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "hydraulics_brakes",
+  "onset": "2025-08-21",
+  "failure": "2025-09-04",
+  "lead_days": 14,
+  "amplitude": 1.09
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "engine",
+  "onset": "2025-11-09",
+  "failure": "2025-11-29",
+  "lead_days": 20,
+  "amplitude": 0.62
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "suspension",
+  "onset": "2026-01-22",
+  "failure": "2026-02-13",
+  "lead_days": 22,
+  "amplitude": 0.63
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "transmission",
+  "onset": "2026-02-12",
+  "failure": "2026-03-05",
+  "lead_days": 21,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "transmission",
+  "onset": "2026-04-06",
+  "failure": "2026-04-21",
+  "lead_days": 15,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "suspension",
+  "onset": "2026-04-07",
+  "failure": "2026-04-27",
+  "lead_days": 20,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "suspension",
+  "onset": "2026-06-08",
+  "failure": "2026-06-29",
+  "lead_days": 21,
+  "amplitude": 0.61
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "transmission",
+  "onset": "2026-06-12",
+  "failure": "2026-07-05",
+  "lead_days": 23,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-44",
+  "component": "transmission",
+  "onset": "2026-08-03",
+  "failure": "2026-08-21",
+  "lead_days": 18,
+  "amplitude": 0.61
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "transmission",
+  "onset": "2024-11-30",
+  "failure": "2024-12-11",
+  "lead_days": 11,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "hydraulics_brakes",
+  "onset": "2025-02-17",
+  "failure": "2025-02-17",
+  "lead_days": 0,
+  "amplitude": 0.49
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2025-02-17",
+  "failure": "2025-02-17",
+  "lead_days": 0,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "transmission",
+  "onset": "2025-03-24",
+  "failure": "2025-04-16",
+  "lead_days": 23,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2025-04-10",
+  "failure": "2025-05-05",
+  "lead_days": 25,
+  "amplitude": 0.82
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "engine",
+  "onset": "2025-04-16",
+  "failure": "2025-05-08",
+  "lead_days": 22,
+  "amplitude": 1.05
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "hydraulics_brakes",
+  "onset": "2025-05-24",
+  "failure": "2025-05-29",
+  "lead_days": 5,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "transmission",
+  "onset": "2025-05-19",
+  "failure": "2025-06-01",
+  "lead_days": 13,
+  "amplitude": 1.17
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2025-06-22",
+  "failure": "2025-07-01",
+  "lead_days": 9,
+  "amplitude": 0.54
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2025-07-25",
+  "failure": "2025-08-12",
+  "lead_days": 18,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2025-11-26",
+  "failure": "2025-12-19",
+  "lead_days": 23,
+  "amplitude": 0.7
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "engine",
+  "onset": "2026-04-15",
+  "failure": "2026-04-26",
+  "lead_days": 11,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2026-06-09",
+  "failure": "2026-06-14",
+  "lead_days": 5,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-28",
+  "failure": "2026-07-28",
+  "lead_days": 0,
+  "amplitude": 1.24
+ },
+ {
+  "truck_id": "HT-45",
+  "component": "suspension",
+  "onset": "2026-10-07",
+  "failure": "2026-10-19",
+  "lead_days": 12,
+  "amplitude": 0.52
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "transmission",
+  "onset": "2025-01-10",
+  "failure": "2025-01-30",
+  "lead_days": 20,
+  "amplitude": 0.57
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "suspension",
+  "onset": "2025-02-20",
+  "failure": "2025-03-05",
+  "lead_days": 13,
+  "amplitude": 0.88
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "suspension",
+  "onset": "2025-03-09",
+  "failure": "2025-04-01",
+  "lead_days": 23,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "hydraulics_brakes",
+  "onset": "2025-07-23",
+  "failure": "2025-08-09",
+  "lead_days": 17,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "transmission",
+  "onset": "2025-08-02",
+  "failure": "2025-08-15",
+  "lead_days": 13,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "engine",
+  "onset": "2025-09-10",
+  "failure": "2025-09-10",
+  "lead_days": 0,
+  "amplitude": 1.18
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "suspension",
+  "onset": "2025-09-25",
+  "failure": "2025-10-05",
+  "lead_days": 10,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "hydraulics_brakes",
+  "onset": "2025-10-04",
+  "failure": "2025-10-23",
+  "lead_days": 19,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "transmission",
+  "onset": "2025-10-18",
+  "failure": "2025-11-05",
+  "lead_days": 18,
+  "amplitude": 0.59
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "hydraulics_brakes",
+  "onset": "2026-01-04",
+  "failure": "2026-01-04",
+  "lead_days": 0,
+  "amplitude": 0.96
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "suspension",
+  "onset": "2026-01-22",
+  "failure": "2026-02-01",
+  "lead_days": 10,
+  "amplitude": 0.7
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "engine",
+  "onset": "2026-04-13",
+  "failure": "2026-04-18",
+  "lead_days": 5,
+  "amplitude": 0.77
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "transmission",
+  "onset": "2026-04-09",
+  "failure": "2026-04-24",
+  "lead_days": 15,
+  "amplitude": 1.06
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "suspension",
+  "onset": "2026-04-13",
+  "failure": "2026-05-01",
+  "lead_days": 18,
+  "amplitude": 0.69
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-04",
+  "failure": "2026-06-04",
+  "lead_days": 0,
+  "amplitude": 0.46
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "hydraulics_brakes",
+  "onset": "2026-06-13",
+  "failure": "2026-06-13",
+  "lead_days": 0,
+  "amplitude": 1.04
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "transmission",
+  "onset": "2026-06-06",
+  "failure": "2026-06-24",
+  "lead_days": 18,
+  "amplitude": 0.86
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "hydraulics_brakes",
+  "onset": "2026-08-20",
+  "failure": "2026-09-04",
+  "lead_days": 15,
+  "amplitude": 0.55
+ },
+ {
+  "truck_id": "HT-46",
+  "component": "suspension",
+  "onset": "2026-08-20",
+  "failure": "2026-09-07",
+  "lead_days": 18,
+  "amplitude": 0.95
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "suspension",
+  "onset": "2024-11-06",
+  "failure": "2024-11-25",
+  "lead_days": 19,
+  "amplitude": 1.26
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "engine",
+  "onset": "2024-12-04",
+  "failure": "2024-12-09",
+  "lead_days": 5,
+  "amplitude": 1.18
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "engine",
+  "onset": "2024-12-19",
+  "failure": "2024-12-31",
+  "lead_days": 12,
+  "amplitude": 0.93
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "hydraulics_brakes",
+  "onset": "2024-12-19",
+  "failure": "2025-01-09",
+  "lead_days": 21,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "engine",
+  "onset": "2025-06-06",
+  "failure": "2025-06-17",
+  "lead_days": 11,
+  "amplitude": 0.51
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "hydraulics_brakes",
+  "onset": "2025-06-14",
+  "failure": "2025-06-26",
+  "lead_days": 12,
+  "amplitude": 1.2
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "transmission",
+  "onset": "2025-11-02",
+  "failure": "2025-11-19",
+  "lead_days": 17,
+  "amplitude": 0.87
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "engine",
+  "onset": "2025-12-15",
+  "failure": "2026-01-08",
+  "lead_days": 24,
+  "amplitude": 0.87
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "hydraulics_brakes",
+  "onset": "2026-03-19",
+  "failure": "2026-03-28",
+  "lead_days": 9,
+  "amplitude": 0.5
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "engine",
+  "onset": "2026-05-23",
+  "failure": "2026-06-03",
+  "lead_days": 11,
+  "amplitude": 1.13
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "transmission",
+  "onset": "2026-05-21",
+  "failure": "2026-06-13",
+  "lead_days": 23,
+  "amplitude": 0.41
+ },
+ {
+  "truck_id": "HT-47",
+  "component": "suspension",
+  "onset": "2026-07-13",
+  "failure": "2026-07-25",
+  "lead_days": 12,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "engine",
+  "onset": "2024-12-31",
+  "failure": "2025-01-06",
+  "lead_days": 6,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "suspension",
+  "onset": "2025-02-04",
+  "failure": "2025-02-16",
+  "lead_days": 12,
+  "amplitude": 1.15
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "suspension",
+  "onset": "2025-03-29",
+  "failure": "2025-04-08",
+  "lead_days": 10,
+  "amplitude": 0.99
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "hydraulics_brakes",
+  "onset": "2025-04-28",
+  "failure": "2025-05-06",
+  "lead_days": 8,
+  "amplitude": 1.28
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "engine",
+  "onset": "2025-06-11",
+  "failure": "2025-06-23",
+  "lead_days": 12,
+  "amplitude": 0.74
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "suspension",
+  "onset": "2025-06-11",
+  "failure": "2025-07-02",
+  "lead_days": 21,
+  "amplitude": 1.21
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "suspension",
+  "onset": "2025-07-15",
+  "failure": "2025-07-30",
+  "lead_days": 15,
+  "amplitude": 1.05
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "engine",
+  "onset": "2025-07-28",
+  "failure": "2025-08-20",
+  "lead_days": 23,
+  "amplitude": 0.53
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "suspension",
+  "onset": "2025-09-05",
+  "failure": "2025-09-17",
+  "lead_days": 12,
+  "amplitude": 1.18
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "engine",
+  "onset": "2025-09-13",
+  "failure": "2025-09-19",
+  "lead_days": 6,
+  "amplitude": 0.47
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "engine",
+  "onset": "2025-10-28",
+  "failure": "2025-11-02",
+  "lead_days": 5,
+  "amplitude": 0.92
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "hydraulics_brakes",
+  "onset": "2026-04-08",
+  "failure": "2026-04-08",
+  "lead_days": 0,
+  "amplitude": 1.22
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "engine",
+  "onset": "2026-05-20",
+  "failure": "2026-05-20",
+  "lead_days": 0,
+  "amplitude": 0.73
+ },
+ {
+  "truck_id": "HT-48",
+  "component": "hydraulics_brakes",
+  "onset": "2026-07-21",
+  "failure": "2026-08-05",
+  "lead_days": 15,
+  "amplitude": 0.68
+ }
+]

@@ -1,0 +1,1836 @@
+truck_id,date,event_type,component,downtime_h,cost_azn
+HT-08,2024-11-03,PM service,,11.5,3227
+HT-11,2024-11-04,PM service,,17.1,2946
+HT-12,2024-11-05,PM service,,13.3,3402
+HT-19,2024-11-05,PM service,,11.9,3360
+HT-29,2024-11-06,PM service,,11.4,2807
+HT-44,2024-11-07,PM service,,10.3,3175
+HT-14,2024-11-08,PM service,,13.7,3290
+HT-27,2024-11-08,PM service,,10.0,3009
+HT-37,2024-11-08,Breakdown,transmission,53.5,25924
+HT-41,2024-11-08,PM service,,10.3,3285
+HT-16,2024-11-09,PM service,,11.0,3067
+HT-28,2024-11-09,PM service,,13.5,3682
+HT-40,2024-11-09,PM service,,15.1,2506
+HT-21,2024-11-10,PM service,,15.5,3645
+HT-30,2024-11-10,PM service,,10.2,3423
+HT-05,2024-11-11,PM service,,7.7,3590
+HT-26,2024-11-11,PM service,,16.0,3445
+HT-31,2024-11-11,PM service,,12.1,3441
+HT-10,2024-11-12,PM service,,10.1,3177
+HT-26,2024-11-12,Breakdown,transmission,40.5,22326
+HT-39,2024-11-12,PM service,,11.7,3559
+HT-36,2024-11-13,PM service,,12.4,2870
+HT-37,2024-11-13,PM service,,14.2,3510
+HT-02,2024-11-14,PM service,,10.7,2982
+HT-06,2024-11-15,PM service,,12.1,3120
+HT-09,2024-11-15,PM service,,10.1,3428
+HT-15,2024-11-15,PM service,,11.1,3083
+HT-25,2024-11-15,PM service,,14.3,3110
+HT-42,2024-11-15,PM service,,13.4,3324
+HT-45,2024-11-15,PM service,,8.8,3070
+HT-09,2024-11-16,Breakdown,suspension,13.1,6122
+HT-32,2024-11-16,Breakdown,transmission,47.5,35159
+HT-12,2024-11-17,Breakdown,hydraulics_brakes,11.8,5420
+HT-18,2024-11-17,PM service,,12.8,3011
+HT-35,2024-11-18,PM service,,16.1,3156
+HT-07,2024-11-19,PM service,,12.8,3101
+HT-34,2024-11-19,PM service,,12.9,2945
+HT-38,2024-11-19,PM service,,10.8,2690
+HT-40,2024-11-19,Breakdown,engine,74.0,73936
+HT-43,2024-11-20,PM service,,11.8,3578
+HT-47,2024-11-20,PM service,,14.5,3499
+HT-03,2024-11-21,PM service,,13.4,3135
+HT-22,2024-11-21,PM service,,11.0,3297
+HT-46,2024-11-21,PM service,,9.2,3485
+HT-48,2024-11-21,PM service,,11.6,2803
+HT-23,2024-11-22,PM service,,10.0,2869
+HT-01,2024-11-23,PM service,,14.0,3123
+HT-20,2024-11-23,PM service,,11.4,3417
+HT-24,2024-11-23,PM service,,10.2,3148
+HT-06,2024-11-24,Breakdown,suspension,28.6,15011
+HT-35,2024-11-24,Breakdown,engine,115.6,42550
+HT-04,2024-11-25,PM service,,10.2,1923
+HT-33,2024-11-25,PM service,,9.2,2835
+HT-47,2024-11-25,Breakdown,suspension,18.4,11305
+HT-09,2024-11-27,Breakdown,transmission,42.9,37843
+HT-15,2024-11-27,Breakdown,transmission,45.3,21318
+HT-24,2024-11-27,Breakdown,suspension,15.0,14694
+HT-08,2024-11-28,PM service,,9.4,3237
+HT-17,2024-11-28,PM service,,11.5,3362
+HT-01,2024-11-29,Breakdown,suspension,36.2,11673
+HT-05,2024-11-29,Breakdown,hydraulics_brakes,14.6,8603
+HT-32,2024-11-29,PM service,,12.5,2584
+HT-03,2024-11-30,Breakdown,suspension,16.9,7942
+HT-13,2024-11-30,PM service,,14.0,3760
+HT-20,2024-11-30,Breakdown,suspension,30.0,11372
+HT-19,2024-12-01,PM service,,8.8,3348
+HT-34,2024-12-01,Breakdown,transmission,34.4,20531
+HT-11,2024-12-02,PM service,,8.7,3467
+HT-14,2024-12-02,Breakdown,engine,63.0,36914
+HT-32,2024-12-02,Breakdown,suspension,9.9,12732
+HT-12,2024-12-03,PM service,,13.0,2927
+HT-27,2024-12-03,PM service,,11.0,3033
+HT-44,2024-12-04,PM service,,11.8,3663
+HT-07,2024-12-05,Breakdown,hydraulics_brakes,13.1,11044
+HT-29,2024-12-05,PM service,,12.8,3389
+HT-16,2024-12-07,PM service,,14.6,3052
+HT-26,2024-12-07,PM service,,16.2,3027
+HT-21,2024-12-08,PM service,,15.6,3101
+HT-24,2024-12-08,Breakdown,transmission,61.8,36930
+HT-37,2024-12-08,PM service,,8.8,3613
+HT-05,2024-12-09,PM service,,14.7,3039
+HT-31,2024-12-09,PM service,,12.4,3769
+HT-47,2024-12-09,Breakdown,engine,56.5,27788
+HT-04,2024-12-10,Breakdown,engine,100.5,43319
+HT-13,2024-12-10,Breakdown,engine,106.2,31313
+HT-28,2024-12-10,PM service,,12.4,3355
+HT-45,2024-12-10,PM service,,11.0,2952
+HT-30,2024-12-11,PM service,,12.5,3395
+HT-36,2024-12-11,Breakdown,suspension,18.9,10841
+HT-39,2024-12-11,PM service,,12.1,3752
+HT-41,2024-12-11,PM service,,11.4,2755
+HT-42,2024-12-11,Breakdown,engine,104.0,56533
+HT-45,2024-12-11,Breakdown,transmission,121.0,22563
+HT-18,2024-12-12,PM service,,13.3,3203
+HT-40,2024-12-12,PM service,,13.7,3061
+HT-06,2024-12-13,PM service,,11.6,3211
+HT-43,2024-12-13,PM service,,13.2,3529
+HT-09,2024-12-14,Breakdown,suspension,27.6,11388
+HT-25,2024-12-14,PM service,,11.7,3016
+HT-10,2024-12-16,PM service,,11.2,2804
+HT-38,2024-12-16,PM service,,13.3,3658
+HT-46,2024-12-16,PM service,,15.1,3444
+HT-02,2024-12-17,PM service,,12.2,3264
+HT-15,2024-12-17,PM service,,14.1,2785
+HT-14,2024-12-18,PM service,,12.5,2726
+HT-15,2024-12-18,Breakdown,hydraulics_brakes,26.2,11021
+HT-38,2024-12-18,Breakdown,suspension,28.0,6277
+HT-42,2024-12-18,PM service,,10.8,3088
+HT-44,2024-12-18,Breakdown,suspension,22.4,9166
+HT-23,2024-12-19,PM service,,11.2,2868
+HT-34,2024-12-19,PM service,,13.3,3084
+HT-48,2024-12-19,PM service,,12.8,2833
+HT-25,2024-12-20,Breakdown,transmission,90.4,26675
+HT-26,2024-12-20,Breakdown,engine,143.6,32162
+HT-40,2024-12-20,Breakdown,engine,93.9,52144
+HT-20,2024-12-21,PM service,,10.0,3335
+HT-22,2024-12-21,PM service,,9.6,3481
+HT-36,2024-12-21,PM service,,13.7,3546
+HT-47,2024-12-21,PM service,,16.6,3609
+HT-03,2024-12-22,PM service,,10.0,3742
+HT-08,2024-12-23,PM service,,12.4,2609
+HT-09,2024-12-23,Breakdown,suspension,20.1,16607
+HT-19,2024-12-23,Breakdown,hydraulics_brakes,12.7,3862
+HT-35,2024-12-23,PM service,,12.3,3805
+HT-17,2024-12-24,PM service,,12.1,3548
+HT-43,2024-12-24,Breakdown,suspension,25.7,15760
+HT-09,2024-12-25,PM service,,13.1,3757
+HT-25,2024-12-25,Breakdown,hydraulics_brakes,24.2,6955
+HT-28,2024-12-26,Breakdown,engine,50.0,43261
+HT-07,2024-12-27,PM service,,15.7,2784
+HT-11,2024-12-27,Breakdown,hydraulics_brakes,12.3,6075
+HT-32,2024-12-27,PM service,,11.5,2745
+HT-33,2024-12-27,PM service,,14.3,3042
+HT-34,2024-12-27,Breakdown,transmission,71.1,39376
+HT-12,2024-12-28,PM service,,13.7,3318
+HT-19,2024-12-28,PM service,,11.6,3615
+HT-29,2024-12-28,PM service,,13.6,3018
+HT-32,2024-12-28,Breakdown,suspension,33.7,8488
+HT-24,2024-12-29,PM service,,15.5,3044
+HT-27,2024-12-29,PM service,,17.7,2896
+HT-01,2024-12-30,PM service,,10.8,2517
+HT-04,2024-12-30,PM service,,8.0,3044
+HT-11,2024-12-30,PM service,,12.8,2990
+HT-24,2024-12-30,Breakdown,hydraulics_brakes,23.3,6074
+HT-21,2024-12-31,PM service,,14.9,3857
+HT-47,2024-12-31,Breakdown,engine,74.4,30219
+HT-20,2025-01-01,Breakdown,hydraulics_brakes,8.1,4385
+HT-44,2025-01-01,PM service,,8.9,2859
+HT-16,2025-01-02,PM service,,12.4,3217
+HT-05,2025-01-04,PM service,,11.5,3643
+HT-13,2025-01-04,PM service,,12.3,3056
+HT-20,2025-01-05,Breakdown,suspension,13.9,8357
+HT-25,2025-01-05,Breakdown,hydraulics_brakes,21.6,7969
+HT-37,2025-01-05,PM service,,8.6,3758
+HT-30,2025-01-06,Breakdown,suspension,41.0,7913
+HT-31,2025-01-06,PM service,,10.9,3256
+HT-48,2025-01-06,Breakdown,engine,97.9,35639
+HT-18,2025-01-07,PM service,,12.1,3428
+HT-24,2025-01-07,Breakdown,suspension,25.6,10124
+HT-33,2025-01-07,Breakdown,suspension,30.9,8482
+HT-06,2025-01-08,Breakdown,suspension,23.1,9910
+HT-28,2025-01-08,PM service,,15.1,2874
+HT-39,2025-01-08,PM service,,12.0,3010
+HT-28,2025-01-09,Breakdown,hydraulics_brakes,15.4,5616
+HT-43,2025-01-09,PM service,,12.7,2330
+HT-47,2025-01-09,Breakdown,hydraulics_brakes,22.9,12311
+HT-05,2025-01-10,Breakdown,suspension,21.2,13228
+HT-06,2025-01-10,PM service,,8.2,3250
+HT-11,2025-01-10,Breakdown,suspension,37.3,6183
+HT-14,2025-01-10,PM service,,14.3,3066
+HT-30,2025-01-10,PM service,,13.8,3322
+HT-38,2025-01-10,Breakdown,transmission,41.0,52826
+HT-26,2025-01-11,PM service,,15.6,2986
+HT-41,2025-01-11,PM service,,11.0,3010
+HT-10,2025-01-12,PM service,,12.0,2588
+HT-16,2025-01-12,Breakdown,transmission,34.7,35887
+HT-32,2025-01-12,Breakdown,suspension,22.1,13583
+HT-46,2025-01-12,PM service,,10.1,3296
+HT-09,2025-01-14,Breakdown,suspension,43.2,8158
+HT-15,2025-01-14,PM service,,12.1,2916
+HT-40,2025-01-14,PM service,,8.4,3148
+HT-45,2025-01-14,PM service,,11.6,2532
+HT-02,2025-01-15,PM service,,9.5,3230
+HT-07,2025-01-15,Breakdown,suspension,30.7,12242
+HT-14,2025-01-15,Breakdown,suspension,56.3,16778
+HT-23,2025-01-15,PM service,,12.5,3607
+HT-38,2025-01-15,PM service,,11.9,2972
+HT-06,2025-01-16,Breakdown,hydraulics_brakes,12.2,6830
+HT-35,2025-01-16,PM service,,11.4,3355
+HT-36,2025-01-16,PM service,,8.6,3692
+HT-01,2025-01-17,Breakdown,engine,76.4,72890
+HT-13,2025-01-17,Breakdown,hydraulics_brakes,18.9,9136
+HT-17,2025-01-17,Breakdown,transmission,36.7,16556
+HT-20,2025-01-17,PM service,,10.3,3667
+HT-03,2025-01-18,Breakdown,hydraulics_brakes,7.6,6773
+HT-08,2025-01-19,PM service,,8.1,3309
+HT-32,2025-01-19,Breakdown,transmission,53.0,20369
+HT-34,2025-01-19,PM service,,10.1,2841
+HT-03,2025-01-20,PM service,,12.2,3202
+HT-48,2025-01-20,PM service,,12.6,3639
+HT-22,2025-01-22,PM service,,13.4,3029
+HT-09,2025-01-23,PM service,,10.5,3507
+HT-27,2025-01-23,Breakdown,suspension,31.6,6234
+HT-30,2025-01-23,Breakdown,suspension,32.6,8468
+HT-04,2025-01-24,PM service,,10.3,3711
+HT-35,2025-01-24,Breakdown,hydraulics_brakes,11.5,8832
+HT-17,2025-01-25,Breakdown,hydraulics_brakes,19.0,5607
+HT-44,2025-01-25,Breakdown,suspension,10.5,11003
+HT-11,2025-01-26,PM service,,11.7,3270
+HT-12,2025-01-26,PM service,,10.0,3642
+HT-21,2025-01-26,PM service,,15.4,3211
+HT-25,2025-01-26,PM service,,11.1,3252
+HT-33,2025-01-26,PM service,,12.5,3160
+HT-05,2025-01-27,Breakdown,suspension,25.6,11966
+HT-16,2025-01-27,PM service,,13.7,2883
+HT-19,2025-01-27,PM service,,13.0,3050
+HT-27,2025-01-27,PM service,,11.5,3160
+HT-29,2025-01-27,PM service,,14.2,2658
+HT-32,2025-01-27,PM service,,10.2,3125
+HT-44,2025-01-28,PM service,,12.6,2913
+HT-04,2025-01-29,Breakdown,hydraulics_brakes,12.6,7319
+HT-42,2025-01-30,PM service,,13.3,2545
+HT-46,2025-01-30,Breakdown,transmission,65.8,16501
+HT-07,2025-01-31,PM service,,11.6,3370
+HT-15,2025-01-31,Breakdown,hydraulics_brakes,19.1,4944
+HT-24,2025-01-31,PM service,,12.2,3187
+HT-40,2025-01-31,Breakdown,transmission,70.3,34354
+HT-31,2025-02-01,PM service,,8.3,3350
+HT-13,2025-02-02,PM service,,10.2,3413
+HT-33,2025-02-02,Breakdown,engine,106.9,25431
+HT-37,2025-02-02,PM service,,8.9,3267
+HT-47,2025-02-02,PM service,,10.0,2740
+HT-03,2025-02-03,Breakdown,transmission,27.0,32015
+HT-22,2025-02-03,Breakdown,hydraulics_brakes,6.8,4456
+HT-18,2025-02-04,PM service,,15.0,3614
+HT-28,2025-02-04,PM service,,11.0,3190
+HT-39,2025-02-06,PM service,,13.8,3294
+HT-41,2025-02-06,PM service,,9.3,2919
+HT-43,2025-02-06,PM service,,12.3,3298
+HT-06,2025-02-07,PM service,,11.2,3135
+HT-32,2025-02-07,Breakdown,engine,53.3,33609
+HT-36,2025-02-07,PM service,,17.0,3348
+HT-05,2025-02-08,PM service,,12.6,2873
+HT-14,2025-02-08,PM service,,12.2,3411
+HT-23,2025-02-08,PM service,,16.6,3174
+HT-38,2025-02-08,PM service,,11.4,2788
+HT-46,2025-02-08,PM service,,10.0,3166
+HT-06,2025-02-10,Breakdown,engine,49.8,103965
+HT-30,2025-02-10,PM service,,13.8,3410
+HT-02,2025-02-11,PM service,,10.1,3472
+HT-10,2025-02-11,PM service,,13.3,2890
+HT-15,2025-02-11,Breakdown,transmission,34.1,34484
+HT-45,2025-02-11,PM service,,14.0,3264
+HT-20,2025-02-12,PM service,,13.6,2597
+HT-35,2025-02-13,PM service,,11.1,3300
+HT-38,2025-02-13,Breakdown,suspension,24.6,10933
+HT-24,2025-02-14,Breakdown,suspension,36.4,9051
+HT-32,2025-02-14,Breakdown,transmission,64.6,29323
+HT-40,2025-02-14,PM service,,12.0,3343
+HT-06,2025-02-15,Breakdown,suspension,24.6,11745
+HT-08,2025-02-15,PM service,,11.6,3184
+HT-34,2025-02-15,PM service,,8.3,3997
+HT-39,2025-02-15,Breakdown,suspension,23.9,11044
+HT-15,2025-02-16,Breakdown,suspension,21.8,19001
+HT-26,2025-02-16,PM service,,9.8,3959
+HT-29,2025-02-16,Breakdown,engine,85.9,29568
+HT-48,2025-02-16,Breakdown,suspension,23.2,12524
+HT-03,2025-02-17,PM service,,6.1,3178
+HT-34,2025-02-17,Breakdown,engine,57.7,64894
+HT-45,2025-02-17,Breakdown,hydraulics_brakes,6.7,5531
+HT-45,2025-02-17,Breakdown,suspension,38.1,13471
+HT-32,2025-02-18,Breakdown,suspension,23.7,6393
+HT-15,2025-02-19,PM service,,8.7,3475
+HT-22,2025-02-19,PM service,,12.8,3372
+HT-17,2025-02-20,PM service,,10.7,3054
+HT-04,2025-02-21,PM service,,11.0,2625
+HT-26,2025-02-22,Breakdown,transmission,42.2,24853
+HT-27,2025-02-22,PM service,,10.0,3662
+HT-25,2025-02-23,PM service,,13.3,3513
+HT-44,2025-02-23,Breakdown,hydraulics_brakes,8.8,5981
+HT-48,2025-02-23,PM service,,7.1,3523
+HT-11,2025-02-24,PM service,,14.3,3150
+HT-16,2025-02-24,PM service,,12.4,3056
+HT-29,2025-02-24,PM service,,13.2,3074
+HT-44,2025-02-24,PM service,,12.8,3014
+HT-01,2025-02-25,PM service,,13.1,3275
+HT-26,2025-02-25,Breakdown,hydraulics_brakes,20.1,7883
+HT-35,2025-02-25,Breakdown,hydraulics_brakes,9.8,11359
+HT-13,2025-02-26,PM service,,13.1,3672
+HT-21,2025-02-26,Breakdown,hydraulics_brakes,21.1,8254
+HT-08,2025-02-27,Breakdown,hydraulics_brakes,13.1,5213
+HT-09,2025-02-27,Breakdown,suspension,57.0,9186
+HT-04,2025-02-28,Breakdown,suspension,46.3,8625
+HT-12,2025-02-28,PM service,,11.9,3034
+HT-19,2025-02-28,PM service,,9.7,2990
+HT-42,2025-02-28,PM service,,11.2,3365
+HT-47,2025-02-28,PM service,,11.0,3012
+HT-21,2025-03-02,PM service,,13.9,2952
+HT-18,2025-03-03,PM service,,10.8,3580
+HT-37,2025-03-03,PM service,,11.5,3606
+HT-07,2025-03-04,PM service,,14.6,3308
+HT-24,2025-03-04,PM service,,14.9,2886
+HT-28,2025-03-04,PM service,,14.7,2874
+HT-39,2025-03-04,PM service,,12.5,3011
+HT-30,2025-03-05,PM service,,7.5,3694
+HT-31,2025-03-05,PM service,,7.9,3179
+HT-36,2025-03-05,PM service,,8.8,3292
+HT-41,2025-03-05,PM service,,10.2,2816
+HT-46,2025-03-05,Breakdown,suspension,45.4,16301
+HT-23,2025-03-06,PM service,,11.1,3018
+HT-32,2025-03-06,PM service,,13.3,3065
+HT-13,2025-03-07,Breakdown,hydraulics_brakes,8.2,2746
+HT-38,2025-03-07,PM service,,12.0,2504
+HT-43,2025-03-07,PM service,,12.2,2952
+HT-03,2025-03-08,Breakdown,suspension,31.5,10948
+HT-14,2025-03-08,PM service,,11.1,3713
+HT-34,2025-03-08,Breakdown,suspension,19.6,16356
+HT-05,2025-03-09,PM service,,12.6,3174
+HT-40,2025-03-09,PM service,,13.9,3296
+HT-09,2025-03-11,PM service,,11.1,3174
+HT-10,2025-03-11,PM service,,12.0,3151
+HT-20,2025-03-11,PM service,,9.8,3752
+HT-35,2025-03-11,PM service,,9.2,3307
+HT-37,2025-03-11,Breakdown,suspension,39.6,9665
+HT-45,2025-03-11,PM service,,11.4,3267
+HT-02,2025-03-12,PM service,,12.7,3072
+HT-33,2025-03-12,PM service,,15.0,3193
+HT-15,2025-03-13,PM service,,12.9,3261
+HT-24,2025-03-13,Breakdown,suspension,22.9,21232
+HT-32,2025-03-13,Breakdown,hydraulics_brakes,4.2,7897
+HT-46,2025-03-13,PM service,,9.8,3292
+HT-13,2025-03-14,Breakdown,suspension,35.7,7427
+HT-08,2025-03-15,PM service,,12.0,3139
+HT-31,2025-03-15,Breakdown,suspension,14.1,6386
+HT-06,2025-03-16,PM service,,12.7,2737
+HT-34,2025-03-17,PM service,,8.7,3160
+HT-03,2025-03-18,PM service,,11.7,3386
+HT-36,2025-03-18,Breakdown,suspension,31.0,9370
+HT-27,2025-03-19,PM service,,10.6,3564
+HT-35,2025-03-19,Breakdown,transmission,54.6,35878
+HT-38,2025-03-19,Breakdown,suspension,17.5,10784
+HT-06,2025-03-20,Breakdown,transmission,107.4,58096
+HT-17,2025-03-20,PM service,,12.4,3108
+HT-22,2025-03-20,PM service,,11.7,3374
+HT-16,2025-03-21,PM service,,12.6,3449
+HT-26,2025-03-21,PM service,,12.3,3398
+HT-25,2025-03-22,PM service,,12.0,3381
+HT-44,2025-03-22,Breakdown,engine,52.7,30724
+HT-48,2025-03-22,PM service,,13.1,3746
+HT-09,2025-03-23,Breakdown,engine,57.4,59487
+HT-12,2025-03-23,Breakdown,transmission,34.2,32516
+HT-29,2025-03-23,PM service,,12.0,2924
+HT-04,2025-03-26,PM service,,9.7,3541
+HT-06,2025-03-26,Breakdown,hydraulics_brakes,10.4,7353
+HT-19,2025-03-26,PM service,,12.4,3105
+HT-35,2025-03-26,Breakdown,suspension,17.3,11478
+HT-09,2025-03-27,Breakdown,suspension,31.5,12324
+HT-13,2025-03-27,PM service,,9.5,3574
+HT-39,2025-03-27,Breakdown,suspension,28.1,13457
+HT-47,2025-03-27,PM service,,12.5,2989
+HT-11,2025-03-28,PM service,,13.7,3258
+HT-42,2025-03-28,PM service,,11.7,3126
+HT-44,2025-03-28,PM service,,9.1,3571
+HT-26,2025-03-29,Breakdown,hydraulics_brakes,14.8,5078
+HT-01,2025-03-30,Breakdown,engine,54.8,93930
+HT-07,2025-03-30,PM service,,13.7,3304
+HT-18,2025-03-30,PM service,,10.6,3029
+HT-04,2025-03-31,Breakdown,suspension,37.6,15889
+HT-14,2025-03-31,PM service,,10.6,3166
+HT-30,2025-03-31,Breakdown,hydraulics_brakes,5.2,3563
+HT-41,2025-03-31,PM service,,10.5,3064
+HT-21,2025-04-01,PM service,,9.7,3338
+HT-24,2025-04-01,PM service,,12.1,3062
+HT-46,2025-04-01,Breakdown,suspension,30.8,18659
+HT-05,2025-04-02,PM service,,12.0,3669
+HT-28,2025-04-02,PM service,,12.2,3100
+HT-31,2025-04-02,PM service,,13.4,3327
+HT-03,2025-04-03,Breakdown,hydraulics_brakes,15.6,4929
+HT-30,2025-04-03,PM service,,14.9,3034
+HT-36,2025-04-03,PM service,,10.9,3405
+HT-23,2025-04-04,PM service,,12.9,3048
+HT-37,2025-04-04,PM service,,8.6,2823
+HT-38,2025-04-04,PM service,,6.9,3042
+HT-02,2025-04-05,PM service,,12.1,3385
+HT-39,2025-04-05,PM service,,11.7,2665
+HT-02,2025-04-06,Breakdown,suspension,51.7,10312
+HT-04,2025-04-06,Breakdown,suspension,18.4,7337
+HT-10,2025-04-06,Breakdown,engine,24.7,45049
+HT-43,2025-04-06,PM service,,17.3,3215
+HT-20,2025-04-07,PM service,,14.4,3671
+HT-33,2025-04-07,PM service,,10.5,2983
+HT-40,2025-04-07,PM service,,11.0,3314
+HT-34,2025-04-08,Breakdown,hydraulics_brakes,8.0,11810
+HT-48,2025-04-08,Breakdown,suspension,20.7,10539
+HT-01,2025-04-09,PM service,,13.5,2851
+HT-09,2025-04-10,PM service,,13.5,3217
+HT-10,2025-04-10,PM service,,11.2,3062
+HT-46,2025-04-11,PM service,,14.0,3108
+HT-15,2025-04-12,PM service,,13.7,3107
+HT-21,2025-04-12,Breakdown,suspension,20.3,11408
+HT-03,2025-04-13,PM service,,10.7,2743
+HT-27,2025-04-13,PM service,,16.8,3548
+HT-45,2025-04-13,PM service,,11.4,2804
+HT-16,2025-04-15,PM service,,15.1,2946
+HT-17,2025-04-15,PM service,,11.7,2654
+HT-32,2025-04-15,PM service,,16.1,2767
+HT-27,2025-04-16,Breakdown,hydraulics_brakes,15.2,4475
+HT-34,2025-04-16,PM service,,12.3,3636
+HT-35,2025-04-16,PM service,,11.6,2975
+HT-45,2025-04-16,Breakdown,transmission,51.7,13624
+HT-06,2025-04-17,PM service,,9.8,2937
+HT-07,2025-04-17,Breakdown,engine,27.5,54750
+HT-29,2025-04-17,PM service,,10.1,2593
+HT-44,2025-04-18,Breakdown,hydraulics_brakes,6.7,4481
+HT-22,2025-04-19,PM service,,15.8,3332
+HT-25,2025-04-19,PM service,,9.8,2841
+HT-26,2025-04-20,PM service,,9.6,3113
+HT-48,2025-04-20,PM service,,14.3,3066
+HT-15,2025-04-22,Breakdown,suspension,24.3,8729
+HT-12,2025-04-23,Breakdown,hydraulics_brakes,9.8,3776
+HT-47,2025-04-23,PM service,,16.6,3335
+HT-08,2025-04-24,PM service,,9.7,2580
+HT-28,2025-04-25,PM service,,9.6,2720
+HT-42,2025-04-25,PM service,,13.1,2966
+HT-44,2025-04-25,PM service,,12.2,3068
+HT-04,2025-04-26,PM service,,11.4,3375
+HT-11,2025-04-26,PM service,,14.1,3355
+HT-14,2025-04-26,Breakdown,hydraulics_brakes,35.7,7536
+HT-19,2025-04-26,PM service,,10.4,2952
+HT-29,2025-04-26,Breakdown,suspension,24.5,9167
+HT-12,2025-04-27,PM service,,13.4,2767
+HT-13,2025-04-27,PM service,,14.1,3264
+HT-08,2025-04-28,Breakdown,transmission,54.4,27188
+HT-23,2025-04-28,PM service,,11.9,3209
+HT-24,2025-04-28,PM service,,13.1,2896
+HT-36,2025-04-28,PM service,,12.8,2915
+HT-39,2025-04-28,PM service,,13.6,3347
+HT-01,2025-04-29,Breakdown,engine,35.1,31791
+HT-07,2025-04-29,PM service,,8.9,2666
+HT-27,2025-04-29,Breakdown,suspension,29.0,8351
+HT-14,2025-04-30,PM service,,12.2,3394
+HT-31,2025-04-30,PM service,,11.3,3472
+HT-05,2025-05-01,PM service,,8.5,3537
+HT-21,2025-05-01,PM service,,10.1,3715
+HT-41,2025-05-01,PM service,,14.3,2970
+HT-43,2025-05-01,PM service,,11.4,2717
+HT-30,2025-05-02,PM service,,10.9,3322
+HT-37,2025-05-02,Breakdown,suspension,23.6,10962
+HT-31,2025-05-03,Breakdown,engine,97.9,59382
+HT-40,2025-05-03,PM service,,11.9,3096
+HT-20,2025-05-04,PM service,,8.0,3293
+HT-37,2025-05-04,Breakdown,engine,62.1,64972
+HT-38,2025-05-04,Breakdown,suspension,38.3,10259
+HT-46,2025-05-04,PM service,,15.1,2422
+HT-45,2025-05-05,Breakdown,suspension,28.4,14692
+HT-02,2025-05-06,PM service,,16.4,3474
+HT-09,2025-05-06,PM service,,13.6,3233
+HT-12,2025-05-06,Breakdown,transmission,99.6,43609
+HT-18,2025-05-06,PM service,,12.0,3240
+HT-48,2025-05-06,Breakdown,hydraulics_brakes,13.1,8433
+HT-33,2025-05-08,PM service,,9.2,2994
+HT-45,2025-05-08,Breakdown,engine,32.2,49307
+HT-24,2025-05-09,Breakdown,engine,46.8,40977
+HT-37,2025-05-09,PM service,,15.5,3040
+HT-06,2025-05-10,PM service,,11.6,3481
+HT-03,2025-05-11,PM service,,11.1,3019
+HT-09,2025-05-11,Breakdown,suspension,19.8,6263
+HT-10,2025-05-11,PM service,,14.3,3512
+HT-32,2025-05-11,PM service,,13.4,3407
+HT-14,2025-05-12,Breakdown,transmission,55.1,77076
+HT-38,2025-05-12,PM service,,13.8,3391
+HT-15,2025-05-13,PM service,,15.1,3002
+HT-16,2025-05-13,PM service,,11.1,3425
+HT-22,2025-05-13,Breakdown,transmission,55.2,28000
+HT-29,2025-05-13,Breakdown,engine,27.9,27393
+HT-34,2025-05-13,PM service,,14.1,3652
+HT-35,2025-05-13,PM service,,9.8,3208
+HT-39,2025-05-13,Breakdown,suspension,18.8,10340
+HT-17,2025-05-14,PM service,,10.6,3460
+HT-27,2025-05-14,PM service,,10.4,3231
+HT-01,2025-05-15,PM service,,13.1,2799
+HT-26,2025-05-15,PM service,,10.9,3175
+HT-24,2025-05-16,Breakdown,hydraulics_brakes,17.5,8755
+HT-25,2025-05-16,PM service,,9.3,3067
+HT-30,2025-05-16,Breakdown,hydraulics_brakes,6.6,9432
+HT-29,2025-05-17,PM service,,9.8,3222
+HT-45,2025-05-17,PM service,,14.1,3073
+HT-08,2025-05-18,Breakdown,hydraulics_brakes,9.5,13186
+HT-01,2025-05-19,Breakdown,hydraulics_brakes,15.4,4370
+HT-32,2025-05-19,Breakdown,engine,64.9,42920
+HT-22,2025-05-22,PM service,,9.8,2933
+HT-23,2025-05-22,PM service,,11.0,3261
+HT-04,2025-05-23,PM service,,13.4,3294
+HT-09,2025-05-23,Breakdown,engine,61.7,64057
+HT-14,2025-05-23,Breakdown,suspension,35.2,7736
+HT-21,2025-05-23,Breakdown,hydraulics_brakes,21.6,9474
+HT-28,2025-05-23,PM service,,13.6,3714
+HT-42,2025-05-23,Breakdown,hydraulics_brakes,16.0,11282
+HT-44,2025-05-23,PM service,,8.2,3120
+HT-08,2025-05-24,PM service,,14.4,3574
+HT-28,2025-05-24,Breakdown,hydraulics_brakes,13.9,5271
+HT-10,2025-05-25,Breakdown,engine,72.0,59726
+HT-13,2025-05-25,PM service,,13.5,2887
+HT-33,2025-05-25,Breakdown,suspension,25.6,12546
+HT-39,2025-05-25,PM service,,11.7,3212
+HT-32,2025-05-26,Breakdown,suspension,50.1,13519
+HT-43,2025-05-26,PM service,,12.4,2953
+HT-44,2025-05-26,Breakdown,hydraulics_brakes,16.8,3621
+HT-07,2025-05-27,PM service,,12.2,3457
+HT-20,2025-05-27,Breakdown,suspension,33.6,5565
+HT-27,2025-05-27,Breakdown,suspension,27.0,13536
+HT-36,2025-05-27,PM service,,10.7,3237
+HT-41,2025-05-27,PM service,,11.5,3292
+HT-42,2025-05-27,PM service,,13.4,3243
+HT-07,2025-05-28,Breakdown,transmission,52.5,37046
+HT-29,2025-05-28,Breakdown,suspension,38.2,20622
+HT-34,2025-05-28,Breakdown,hydraulics_brakes,9.7,4409
+HT-21,2025-05-29,PM service,,14.8,2868
+HT-30,2025-05-29,PM service,,11.6,3073
+HT-31,2025-05-29,PM service,,12.6,2878
+HT-42,2025-05-29,Breakdown,engine,80.4,53391
+HT-45,2025-05-29,Breakdown,hydraulics_brakes,10.2,5299
+HT-05,2025-05-30,PM service,,12.7,3253
+HT-11,2025-05-30,PM service,,8.6,3189
+HT-12,2025-05-30,PM service,,10.7,3420
+HT-24,2025-05-30,PM service,,12.6,3403
+HT-40,2025-05-30,PM service,,10.3,3181
+HT-41,2025-05-30,Breakdown,transmission,49.0,15750
+HT-46,2025-05-30,PM service,,9.2,3181
+HT-02,2025-05-31,PM service,,10.3,3291
+HT-08,2025-05-31,Breakdown,transmission,40.3,13019
+HT-20,2025-05-31,PM service,,12.7,3236
+HT-25,2025-05-31,Breakdown,suspension,13.8,12230
+HT-40,2025-05-31,Breakdown,suspension,39.3,19878
+HT-45,2025-06-01,Breakdown,transmission,106.2,28110
+HT-47,2025-06-01,PM service,,12.6,3725
+HT-06,2025-06-02,Breakdown,hydraulics_brakes,12.1,3729
+HT-18,2025-06-03,PM service,,11.2,3441
+HT-06,2025-06-04,Breakdown,suspension,47.7,10075
+HT-14,2025-06-04,PM service,,9.4,2983
+HT-15,2025-06-04,Breakdown,engine,102.3,43155
+HT-02,2025-06-05,Breakdown,transmission,60.3,24543
+HT-09,2025-06-05,Breakdown,suspension,28.1,11956
+HT-05,2025-06-08,Breakdown,hydraulics_brakes,16.4,7598
+HT-13,2025-06-08,Breakdown,hydraulics_brakes,21.7,9160
+HT-16,2025-06-08,PM service,,9.7,3102
+HT-34,2025-06-08,PM service,,12.6,3157
+HT-35,2025-06-08,PM service,,16.1,3313
+HT-09,2025-06-09,PM service,,9.7,2974
+HT-10,2025-06-09,PM service,,15.4,2748
+HT-33,2025-06-09,PM service,,7.4,3144
+HT-38,2025-06-09,Breakdown,suspension,68.4,10949
+HT-15,2025-06-11,Breakdown,suspension,15.1,19155
+HT-21,2025-06-11,Breakdown,engine,82.7,75436
+HT-27,2025-06-11,PM service,,12.1,3523
+HT-19,2025-06-12,PM service,,12.3,3240
+HT-37,2025-06-12,Breakdown,suspension,19.6,7988
+HT-17,2025-06-13,PM service,,12.9,3623
+HT-06,2025-06-14,PM service,,10.1,2961
+HT-15,2025-06-14,PM service,,9.5,3454
+HT-01,2025-06-15,PM service,,12.3,3166
+HT-03,2025-06-15,PM service,,13.8,3259
+HT-37,2025-06-15,PM service,,10.8,3038
+HT-21,2025-06-16,Breakdown,suspension,16.0,8591
+HT-22,2025-06-16,PM service,,10.8,3294
+HT-27,2025-06-16,Breakdown,suspension,17.5,13727
+HT-29,2025-06-16,PM service,,14.3,3099
+HT-30,2025-06-16,Breakdown,hydraulics_brakes,11.0,6317
+HT-38,2025-06-16,PM service,,11.5,3195
+HT-48,2025-06-16,PM service,,13.9,3448
+HT-10,2025-06-17,Breakdown,hydraulics_brakes,10.5,5885
+HT-25,2025-06-17,PM service,,12.2,3153
+HT-47,2025-06-17,Breakdown,engine,75.3,36519
+HT-26,2025-06-18,PM service,,12.7,3172
+HT-28,2025-06-18,PM service,,11.9,2903
+HT-18,2025-06-19,Breakdown,suspension,13.8,10589
+HT-43,2025-06-19,PM service,,13.2,2931
+HT-45,2025-06-19,PM service,,16.0,3871
+HT-14,2025-06-21,Breakdown,engine,34.5,22179
+HT-28,2025-06-21,Breakdown,hydraulics_brakes,4.6,5664
+HT-22,2025-06-22,Breakdown,suspension,21.2,5081
+HT-36,2025-06-23,PM service,,15.2,3124
+HT-44,2025-06-23,PM service,,10.4,3111
+HT-48,2025-06-23,Breakdown,engine,70.4,32544
+HT-04,2025-06-24,PM service,,13.7,3099
+HT-08,2025-06-24,PM service,,16.8,3428
+HT-12,2025-06-24,PM service,,10.6,3369
+HT-20,2025-06-24,PM service,,9.4,3303
+HT-26,2025-06-24,Breakdown,suspension,26.9,18450
+HT-08,2025-06-25,Breakdown,hydraulics_brakes,12.6,6209
+HT-24,2025-06-26,Breakdown,hydraulics_brakes,6.0,11244
+HT-31,2025-06-26,PM service,,11.0,3348
+HT-32,2025-06-26,Breakdown,engine,37.5,54717
+HT-41,2025-06-26,PM service,,11.2,3443
+HT-44,2025-06-26,Breakdown,transmission,78.3,33256
+HT-47,2025-06-26,Breakdown,hydraulics_brakes,14.3,5998
+HT-07,2025-06-27,PM service,,11.0,3139
+HT-13,2025-06-27,Breakdown,suspension,22.4,11047
+HT-09,2025-06-28,Breakdown,transmission,66.1,72655
+HT-11,2025-06-28,PM service,,8.5,3288
+HT-15,2025-06-28,Breakdown,engine,71.9,51345
+HT-40,2025-06-28,PM service,,14.2,3730
+HT-03,2025-06-29,Breakdown,suspension,26.8,11314
+HT-05,2025-06-29,PM service,,11.0,3097
+HT-13,2025-06-29,PM service,,15.7,2764
+HT-30,2025-06-29,PM service,,14.0,3360
+HT-41,2025-07-01,Breakdown,hydraulics_brakes,25.8,5308
+HT-42,2025-07-01,PM service,,12.7,3399
+HT-45,2025-07-01,Breakdown,suspension,25.2,9649
+HT-16,2025-07-02,PM service,,12.9,2828
+HT-18,2025-07-02,PM service,,16.3,3037
+HT-39,2025-07-02,PM service,,11.2,3242
+HT-46,2025-07-02,PM service,,11.2,2926
+HT-48,2025-07-02,Breakdown,suspension,18.1,9545
+HT-10,2025-07-03,PM service,,11.1,3003
+HT-18,2025-07-03,Breakdown,engine,69.7,64567
+HT-24,2025-07-03,PM service,,13.2,3064
+HT-30,2025-07-03,Breakdown,hydraulics_brakes,9.9,6677
+HT-32,2025-07-03,PM service,,13.4,3172
+HT-33,2025-07-03,PM service,,14.0,2956
+HT-34,2025-07-03,Breakdown,suspension,24.5,10550
+HT-33,2025-07-04,Breakdown,engine,61.6,59345
+HT-35,2025-07-04,PM service,,13.9,3196
+HT-23,2025-07-05,Breakdown,engine,71.3,27653
+HT-34,2025-07-05,PM service,,10.8,3153
+HT-14,2025-07-06,PM service,,11.9,2802
+HT-21,2025-07-06,PM service,,14.3,3431
+HT-19,2025-07-07,PM service,,14.7,3007
+HT-02,2025-07-09,PM service,,13.4,3254
+HT-04,2025-07-09,Breakdown,transmission,45.5,72742
+HT-09,2025-07-10,PM service,,13.9,2475
+HT-40,2025-07-10,Breakdown,suspension,36.8,11346
+HT-47,2025-07-10,PM service,,8.2,3278
+HT-23,2025-07-11,Breakdown,hydraulics_brakes,7.3,5472
+HT-27,2025-07-11,PM service,,11.3,3271
+HT-37,2025-07-11,PM service,,13.2,2690
+HT-06,2025-07-12,PM service,,12.5,3516
+HT-22,2025-07-12,Breakdown,engine,44.6,51053
+HT-25,2025-07-12,PM service,,13.6,2901
+HT-15,2025-07-13,Breakdown,suspension,23.5,8002
+HT-03,2025-07-14,PM service,,12.5,3257
+HT-23,2025-07-14,PM service,,11.4,3411
+HT-29,2025-07-14,PM service,,12.0,3244
+HT-38,2025-07-14,PM service,,8.4,3186
+HT-45,2025-07-14,PM service,,12.6,3542
+HT-01,2025-07-15,PM service,,12.8,3772
+HT-25,2025-07-15,Breakdown,hydraulics_brakes,7.5,4430
+HT-28,2025-07-15,PM service,,11.0,2920
+HT-01,2025-07-16,Breakdown,hydraulics_brakes,16.5,8605
+HT-36,2025-07-17,PM service,,9.7,3899
+HT-01,2025-07-18,Breakdown,transmission,58.6,21534
+HT-09,2025-07-18,Breakdown,suspension,22.2,13139
+HT-26,2025-07-18,PM service,,12.1,3371
+HT-06,2025-07-19,Breakdown,suspension,53.0,10434
+HT-22,2025-07-19,PM service,,13.0,3367
+HT-43,2025-07-19,PM service,,9.3,2921
+HT-15,2025-07-20,Breakdown,engine,56.9,62223
+HT-42,2025-07-20,Breakdown,hydraulics_brakes,17.8,5695
+HT-44,2025-07-20,Breakdown,hydraulics_brakes,12.2,6924
+HT-12,2025-07-21,PM service,,9.1,3631
+HT-29,2025-07-22,Breakdown,suspension,46.4,11797
+HT-08,2025-07-23,PM service,,10.6,3318
+HT-16,2025-07-23,Breakdown,suspension,22.8,13305
+HT-20,2025-07-23,PM service,,12.8,3235
+HT-07,2025-07-24,PM service,,10.9,2936
+HT-11,2025-07-24,PM service,,6.1,3291
+HT-39,2025-07-25,PM service,,8.8,2911
+HT-04,2025-07-26,PM service,,12.5,3091
+HT-13,2025-07-26,PM service,,11.6,3367
+HT-30,2025-07-26,PM service,,12.1,3297
+HT-31,2025-07-26,PM service,,13.1,3175
+HT-21,2025-07-27,PM service,,10.3,3350
+HT-46,2025-07-27,PM service,,13.4,3350
+HT-35,2025-07-28,PM service,,17.3,3255
+HT-44,2025-07-28,PM service,,11.9,3780
+HT-06,2025-07-29,Breakdown,hydraulics_brakes,17.1,10504
+HT-17,2025-07-29,PM service,,13.7,3156
+HT-33,2025-07-29,PM service,,12.0,2931
+HT-40,2025-07-29,PM service,,11.9,3291
+HT-48,2025-07-29,PM service,,10.7,4089
+HT-24,2025-07-30,PM service,,11.2,3451
+HT-42,2025-07-30,PM service,,14.6,3452
+HT-48,2025-07-30,Breakdown,suspension,25.0,3740
+HT-05,2025-07-31,PM service,,15.3,2931
+HT-34,2025-07-31,PM service,,14.4,3296
+HT-41,2025-07-31,PM service,,14.8,3114
+HT-16,2025-08-01,PM service,,10.7,3609
+HT-30,2025-08-01,Breakdown,transmission,40.1,34178
+HT-10,2025-08-02,PM service,,12.5,2883
+HT-15,2025-08-02,PM service,,12.3,3224
+HT-42,2025-08-02,Breakdown,suspension,20.4,12767
+HT-15,2025-08-03,Breakdown,transmission,78.2,51883
+HT-27,2025-08-03,Breakdown,transmission,78.8,34248
+HT-31,2025-08-03,Breakdown,suspension,21.1,16512
+HT-19,2025-08-04,PM service,,12.3,3633
+HT-32,2025-08-04,PM service,,8.4,3068
+HT-02,2025-08-05,PM service,,10.7,2744
+HT-14,2025-08-05,PM service,,10.0,3169
+HT-37,2025-08-05,PM service,,15.7,3089
+HT-40,2025-08-05,Breakdown,hydraulics_brakes,17.5,7390
+HT-43,2025-08-05,Breakdown,hydraulics_brakes,39.6,6175
+HT-01,2025-08-06,Breakdown,suspension,12.6,12083
+HT-18,2025-08-06,PM service,,12.1,3386
+HT-29,2025-08-07,Breakdown,transmission,62.9,49072
+HT-12,2025-08-08,Breakdown,engine,33.1,40430
+HT-17,2025-08-08,Breakdown,suspension,31.6,9032
+HT-28,2025-08-08,PM service,,13.5,3161
+HT-23,2025-08-09,PM service,,12.4,3349
+HT-46,2025-08-09,Breakdown,hydraulics_brakes,6.7,8055
+HT-47,2025-08-09,PM service,,13.6,3012
+HT-06,2025-08-10,Breakdown,transmission,54.0,25757
+HT-08,2025-08-10,Breakdown,suspension,14.7,19833
+HT-32,2025-08-10,Breakdown,suspension,19.3,9463
+HT-11,2025-08-11,Breakdown,suspension,13.8,11307
+HT-45,2025-08-11,PM service,,12.8,3254
+HT-27,2025-08-12,PM service,,12.3,3510
+HT-38,2025-08-12,PM service,,8.4,2852
+HT-45,2025-08-12,Breakdown,suspension,27.5,11863
+HT-22,2025-08-13,PM service,,13.4,3169
+HT-06,2025-08-14,PM service,,10.1,3489
+HT-13,2025-08-14,Breakdown,suspension,42.3,14786
+HT-36,2025-08-14,PM service,,14.2,3363
+HT-08,2025-08-15,PM service,,13.0,3247
+HT-46,2025-08-15,Breakdown,transmission,63.1,41228
+HT-18,2025-08-16,Breakdown,hydraulics_brakes,17.7,6234
+HT-20,2025-08-16,PM service,,15.5,3329
+HT-08,2025-08-17,Breakdown,hydraulics_brakes,13.1,9729
+HT-12,2025-08-17,PM service,,10.3,3022
+HT-23,2025-08-17,Breakdown,hydraulics_brakes,11.1,10575
+HT-29,2025-08-17,PM service,,10.1,3717
+HT-03,2025-08-19,Breakdown,hydraulics_brakes,22.7,21471
+HT-07,2025-08-19,PM service,,10.2,3975
+HT-25,2025-08-19,PM service,,7.9,3351
+HT-39,2025-08-19,PM service,,14.4,3191
+HT-02,2025-08-20,Breakdown,suspension,28.2,5541
+HT-07,2025-08-20,Breakdown,engine,87.4,26544
+HT-43,2025-08-20,PM service,,14.4,3120
+HT-48,2025-08-20,Breakdown,engine,81.3,68481
+HT-14,2025-08-22,Breakdown,engine,120.2,36197
+HT-31,2025-08-22,PM service,,14.0,3482
+HT-34,2025-08-22,Breakdown,transmission,63.4,32338
+HT-09,2025-08-23,PM service,,13.2,2933
+HT-26,2025-08-23,PM service,,12.1,2987
+HT-11,2025-08-24,PM service,,10.3,3190
+HT-19,2025-08-24,Breakdown,suspension,28.6,6066
+HT-21,2025-08-24,PM service,,10.9,3037
+HT-35,2025-08-24,PM service,,10.6,3078
+HT-38,2025-08-24,Breakdown,transmission,41.1,14394
+HT-43,2025-08-24,Breakdown,hydraulics_brakes,22.1,4657
+HT-01,2025-08-25,PM service,,13.2,2929
+HT-09,2025-08-25,Breakdown,hydraulics_brakes,12.3,8497
+HT-44,2025-08-26,PM service,,10.7,2898
+HT-46,2025-08-26,PM service,,8.3,2995
+HT-05,2025-08-27,PM service,,9.8,3326
+HT-44,2025-08-27,Breakdown,engine,74.6,48972
+HT-13,2025-08-28,PM service,,11.1,3167
+HT-16,2025-08-28,PM service,,13.2,3305
+HT-48,2025-08-28,PM service,,16.4,3247
+HT-03,2025-08-29,PM service,,12.5,3282
+HT-06,2025-08-29,Breakdown,hydraulics_brakes,10.2,5628
+HT-10,2025-08-29,PM service,,13.6,2729
+HT-17,2025-08-29,PM service,,10.2,3199
+HT-24,2025-08-29,PM service,,10.9,3136
+HT-33,2025-08-29,PM service,,15.4,3106
+HT-30,2025-08-30,PM service,,9.0,3257
+HT-34,2025-08-30,PM service,,12.5,3474
+HT-40,2025-08-30,PM service,,11.9,3677
+HT-09,2025-08-31,Breakdown,suspension,28.5,11972
+HT-32,2025-08-31,PM service,,14.4,3376
+HT-34,2025-08-31,Breakdown,suspension,43.1,17121
+HT-03,2025-09-01,Breakdown,engine,97.6,53696
+HT-18,2025-09-01,PM service,,18.7,3271
+HT-41,2025-09-01,PM service,,18.1,2584
+HT-15,2025-09-02,PM service,,14.2,2632
+HT-28,2025-09-02,PM service,,10.2,2837
+HT-37,2025-09-02,PM service,,14.3,2956
+HT-04,2025-09-03,PM service,,11.8,3472
+HT-02,2025-09-04,PM service,,12.3,2764
+HT-09,2025-09-04,Breakdown,transmission,61.5,26954
+HT-13,2025-09-04,Breakdown,suspension,19.6,10646
+HT-21,2025-09-04,Breakdown,engine,58.1,49231
+HT-29,2025-09-04,Breakdown,engine,57.6,65869
+HT-34,2025-09-04,Breakdown,hydraulics_brakes,11.1,5235
+HT-42,2025-09-04,PM service,,12.2,3359
+HT-44,2025-09-04,Breakdown,hydraulics_brakes,18.0,6602
+HT-19,2025-09-05,PM service,,9.7,3048
+HT-32,2025-09-05,Breakdown,transmission,27.5,36518
+HT-20,2025-09-06,Breakdown,engine,41.3,46548
+HT-27,2025-09-06,Breakdown,hydraulics_brakes,17.6,8230
+HT-39,2025-09-06,Breakdown,suspension,18.7,9391
+HT-14,2025-09-07,PM service,,13.5,3457
+HT-37,2025-09-07,Breakdown,suspension,44.9,9198
+HT-47,2025-09-07,PM service,,14.2,3551
+HT-22,2025-09-09,PM service,,15.2,3212
+HT-24,2025-09-10,Breakdown,hydraulics_brakes,10.9,4162
+HT-36,2025-09-10,PM service,,11.1,3191
+HT-46,2025-09-10,Breakdown,engine,84.8,45278
+HT-06,2025-09-11,PM service,,14.5,2882
+HT-08,2025-09-11,PM service,,12.2,3351
+HT-45,2025-09-11,PM service,,11.3,3561
+HT-28,2025-09-12,Breakdown,suspension,40.5,9446
+HT-12,2025-09-13,PM service,,12.2,2933
+HT-23,2025-09-13,PM service,,12.9,2912
+HT-02,2025-09-14,Breakdown,transmission,43.1,49004
+HT-22,2025-09-14,Breakdown,hydraulics_brakes,19.1,6689
+HT-27,2025-09-14,PM service,,15.7,3351
+HT-20,2025-09-15,PM service,,13.6,3274
+HT-12,2025-09-16,Breakdown,suspension,24.2,9589
+HT-25,2025-09-16,PM service,,13.1,3220
+HT-29,2025-09-16,PM service,,9.8,2767
+HT-01,2025-09-17,Breakdown,suspension,30.3,7766
+HT-26,2025-09-17,PM service,,11.9,2552
+HT-38,2025-09-17,PM service,,11.7,2532
+HT-39,2025-09-17,PM service,,15.3,3328
+HT-40,2025-09-17,Breakdown,hydraulics_brakes,18.5,6632
+HT-48,2025-09-17,Breakdown,suspension,13.0,11841
+HT-43,2025-09-18,PM service,,12.5,2829
+HT-27,2025-09-19,Breakdown,suspension,16.5,7859
+HT-30,2025-09-19,Breakdown,engine,90.4,62204
+HT-31,2025-09-19,PM service,,10.9,3009
+HT-48,2025-09-19,Breakdown,engine,101.1,78706
+HT-07,2025-09-20,PM service,,11.3,3484
+HT-08,2025-09-21,Breakdown,hydraulics_brakes,9.3,9992
+HT-09,2025-09-21,PM service,,14.3,3123
+HT-26,2025-09-21,Breakdown,hydraulics_brakes,15.5,6658
+HT-27,2025-09-21,Breakdown,transmission,74.7,37967
+HT-27,2025-09-21,Breakdown,hydraulics_brakes,14.1,6434
+HT-01,2025-09-22,PM service,,15.3,3807
+HT-05,2025-09-22,PM service,,13.9,3105
+HT-11,2025-09-22,Breakdown,transmission,31.0,22723
+HT-32,2025-09-23,Breakdown,hydraulics_brakes,25.6,7845
+HT-16,2025-09-24,PM service,,9.8,3126
+HT-21,2025-09-24,PM service,,13.1,2728
+HT-23,2025-09-24,Breakdown,hydraulics_brakes,11.5,5909
+HT-35,2025-09-24,PM service,,6.2,3064
+HT-10,2025-09-25,PM service,,13.3,3054
+HT-11,2025-09-25,PM service,,12.3,2872
+HT-01,2025-09-26,Breakdown,transmission,31.5,25528
+HT-13,2025-09-26,PM service,,14.9,2678
+HT-17,2025-09-26,PM service,,11.7,3284
+HT-30,2025-09-26,PM service,,14.9,3343
+HT-18,2025-09-27,PM service,,15.2,3360
+HT-41,2025-09-27,PM service,,9.6,3163
+HT-46,2025-09-27,PM service,,10.8,3285
+HT-24,2025-09-28,PM service,,10.4,3733
+HT-15,2025-09-29,PM service,,11.3,3167
+HT-37,2025-09-29,PM service,,12.6,2930
+HT-42,2025-09-29,PM service,,14.4,2841
+HT-44,2025-09-29,PM service,,10.8,3546
+HT-04,2025-09-30,PM service,,10.4,3262
+HT-09,2025-09-30,Breakdown,suspension,20.4,7891
+HT-40,2025-09-30,PM service,,11.1,3327
+HT-05,2025-10-01,Breakdown,engine,30.5,31468
+HT-13,2025-10-01,Breakdown,transmission,51.7,26575
+HT-19,2025-10-01,PM service,,10.9,2934
+HT-48,2025-10-01,PM service,,13.7,2950
+HT-09,2025-10-02,Breakdown,hydraulics_brakes,12.6,14055
+HT-34,2025-10-03,PM service,,14.3,3254
+HT-37,2025-10-03,Breakdown,transmission,89.1,18527
+HT-36,2025-10-04,PM service,,12.3,3107
+HT-14,2025-10-05,PM service,,12.8,2830
+HT-46,2025-10-05,Breakdown,suspension,39.3,10684
+HT-02,2025-10-06,PM service,,13.8,2985
+HT-22,2025-10-06,PM service,,14.5,3389
+HT-32,2025-10-06,PM service,,12.5,3195
+HT-45,2025-10-06,PM service,,9.5,3050
+HT-06,2025-10-07,PM service,,10.8,3040
+HT-26,2025-10-07,Breakdown,suspension,29.3,14225
+HT-47,2025-10-07,PM service,,10.4,3262
+HT-08,2025-10-09,PM service,,14.6,3007
+HT-03,2025-10-10,PM service,,10.7,3209
+HT-23,2025-10-10,PM service,,12.4,3240
+HT-31,2025-10-10,Breakdown,hydraulics_brakes,9.6,6555
+HT-39,2025-10-11,PM service,,11.2,3308
+HT-28,2025-10-12,Breakdown,engine,57.3,49280
+HT-29,2025-10-12,PM service,,11.1,3112
+HT-25,2025-10-14,PM service,,13.5,3588
+HT-32,2025-10-14,Breakdown,transmission,50.1,23318
+HT-33,2025-10-14,PM service,,11.6,3471
+HT-38,2025-10-14,PM service,,10.4,2812
+HT-20,2025-10-15,PM service,,9.9,3253
+HT-39,2025-10-15,Breakdown,engine,140.9,27948
+HT-03,2025-10-16,Breakdown,hydraulics_brakes,16.9,9623
+HT-12,2025-10-16,PM service,,15.5,3122
+HT-30,2025-10-16,PM service,,9.6,3064
+HT-43,2025-10-16,PM service,,13.7,3061
+HT-24,2025-10-17,Breakdown,transmission,31.7,31071
+HT-07,2025-10-18,PM service,,14.3,3693
+HT-11,2025-10-18,PM service,,13.6,3549
+HT-16,2025-10-18,PM service,,12.8,3342
+HT-26,2025-10-18,PM service,,10.5,3267
+HT-28,2025-10-18,PM service,,11.5,3261
+HT-31,2025-10-18,PM service,,13.3,3382
+HT-32,2025-10-18,Breakdown,hydraulics_brakes,23.1,6280
+HT-01,2025-10-19,PM service,,13.2,3206
+HT-06,2025-10-19,Breakdown,hydraulics_brakes,10.9,11107
+HT-10,2025-10-19,PM service,,12.9,3269
+HT-26,2025-10-19,Breakdown,engine,54.1,32086
+HT-27,2025-10-19,PM service,,15.0,3100
+HT-35,2025-10-19,PM service,,13.5,3274
+HT-09,2025-10-20,PM service,,15.3,2905
+HT-21,2025-10-20,Breakdown,transmission,58.9,23808
+HT-46,2025-10-23,Breakdown,hydraulics_brakes,18.8,7400
+HT-17,2025-10-24,PM service,,14.0,3510
+HT-42,2025-10-24,PM service,,16.0,2969
+HT-06,2025-10-25,Breakdown,transmission,98.7,32860
+HT-18,2025-10-25,PM service,,12.7,3874
+HT-24,2025-10-25,PM service,,12.3,3484
+HT-40,2025-10-25,PM service,,8.3,3161
+HT-41,2025-10-25,PM service,,13.3,3096
+HT-13,2025-10-26,PM service,,12.2,3062
+HT-44,2025-10-26,PM service,,13.5,3732
+HT-46,2025-10-27,PM service,,12.1,3200
+HT-04,2025-10-28,PM service,,14.1,3386
+HT-37,2025-10-28,PM service,,15.1,3255
+HT-34,2025-10-29,PM service,,9.5,3171
+HT-48,2025-10-29,PM service,,15.4,2889
+HT-05,2025-10-30,PM service,,10.4,3212
+HT-21,2025-10-30,PM service,,13.9,3128
+HT-25,2025-10-31,Breakdown,transmission,33.8,36591
+HT-45,2025-10-31,PM service,,14.1,2891
+HT-02,2025-11-01,Breakdown,suspension,20.1,14205
+HT-14,2025-11-01,PM service,,8.0,3496
+HT-28,2025-11-01,Breakdown,suspension,20.4,8875
+HT-15,2025-11-02,PM service,,13.6,3647
+HT-32,2025-11-02,PM service,,14.0,3719
+HT-36,2025-11-02,PM service,,9.5,2552
+HT-48,2025-11-02,Breakdown,engine,83.5,67926
+HT-06,2025-11-04,Breakdown,hydraulics_brakes,6.2,10242
+HT-08,2025-11-04,PM service,,14.6,2682
+HT-47,2025-11-04,PM service,,9.3,2481
+HT-02,2025-11-05,PM service,,12.6,3209
+HT-17,2025-11-05,Breakdown,engine,37.2,33008
+HT-22,2025-11-05,PM service,,10.0,2754
+HT-46,2025-11-05,Breakdown,transmission,29.8,20940
+HT-03,2025-11-06,PM service,,12.7,2911
+HT-06,2025-11-06,PM service,,11.4,3225
+HT-19,2025-11-06,Breakdown,engine,154.8,46058
+HT-23,2025-11-06,PM service,,12.5,3449
+HT-38,2025-11-08,PM service,,14.7,3304
+HT-20,2025-11-09,PM service,,7.4,3087
+HT-29,2025-11-09,PM service,,15.1,3272
+HT-29,2025-11-10,Breakdown,hydraulics_brakes,26.1,7045
+HT-33,2025-11-10,PM service,,15.0,2971
+HT-16,2025-11-11,PM service,,16.4,2692
+HT-21,2025-11-11,Breakdown,hydraulics_brakes,5.9,3904
+HT-25,2025-11-11,PM service,,11.1,2695
+HT-39,2025-11-11,Breakdown,suspension,27.6,15232
+HT-43,2025-11-11,PM service,,9.8,3401
+HT-38,2025-11-12,Breakdown,hydraulics_brakes,10.5,3890
+HT-01,2025-11-13,PM service,,16.3,3181
+HT-10,2025-11-13,Breakdown,engine,50.8,62186
+HT-27,2025-11-13,PM service,,10.8,3708
+HT-01,2025-11-14,Breakdown,suspension,23.7,16173
+HT-07,2025-11-14,PM service,,12.2,3356
+HT-19,2025-11-14,PM service,,13.0,3464
+HT-26,2025-11-14,PM service,,11.2,3484
+HT-11,2025-11-15,PM service,,11.0,2922
+HT-01,2025-11-16,Breakdown,hydraulics_brakes,15.7,7198
+HT-39,2025-11-16,PM service,,11.3,3257
+HT-42,2025-11-16,PM service,,11.9,3074
+HT-28,2025-11-17,PM service,,12.4,3652
+HT-30,2025-11-17,PM service,,10.2,3158
+HT-20,2025-11-18,Breakdown,suspension,18.3,19728
+HT-24,2025-11-18,PM service,,13.7,3565
+HT-25,2025-11-19,Breakdown,hydraulics_brakes,6.0,6336
+HT-26,2025-11-19,Breakdown,suspension,17.1,14162
+HT-32,2025-11-19,Breakdown,suspension,54.7,9309
+HT-47,2025-11-19,Breakdown,transmission,47.7,30656
+HT-03,2025-11-21,Breakdown,transmission,81.3,22762
+HT-18,2025-11-21,PM service,,10.0,3007
+HT-12,2025-11-22,Breakdown,hydraulics_brakes,12.1,5435
+HT-17,2025-11-22,PM service,,14.0,3371
+HT-40,2025-11-22,PM service,,13.5,2468
+HT-13,2025-11-23,PM service,,12.6,2748
+HT-30,2025-11-23,Breakdown,transmission,70.6,30026
+HT-37,2025-11-23,PM service,,11.5,2852
+HT-36,2025-11-24,Breakdown,transmission,90.8,48392
+HT-44,2025-11-24,PM service,,13.4,3711
+HT-04,2025-11-25,PM service,,11.1,3372
+HT-05,2025-11-25,PM service,,15.4,3003
+HT-13,2025-11-25,Breakdown,hydraulics_brakes,8.9,8540
+HT-46,2025-11-25,PM service,,11.6,3517
+HT-23,2025-11-26,Breakdown,hydraulics_brakes,16.0,6930
+HT-34,2025-11-26,PM service,,12.3,3591
+HT-12,2025-11-27,PM service,,12.7,3267
+HT-15,2025-11-27,PM service,,11.9,3074
+HT-45,2025-11-27,PM service,,13.2,3337
+HT-14,2025-11-28,PM service,,15.3,2930
+HT-15,2025-11-28,Breakdown,transmission,35.1,25439
+HT-41,2025-11-28,PM service,,16.0,3176
+HT-11,2025-11-29,Breakdown,transmission,31.4,32813
+HT-44,2025-11-29,Breakdown,engine,119.9,25288
+HT-22,2025-11-30,PM service,,14.7,3540
+HT-04,2025-12-01,Breakdown,engine,38.6,60296
+HT-06,2025-12-01,PM service,,16.1,3572
+HT-10,2025-12-01,PM service,,10.5,4147
+HT-23,2025-12-01,PM service,,13.5,3289
+HT-35,2025-12-01,PM service,,16.8,3113
+HT-08,2025-12-02,PM service,,12.1,3085
+HT-31,2025-12-02,Breakdown,engine,87.4,28601
+HT-48,2025-12-02,PM service,,13.3,2666
+HT-09,2025-12-03,PM service,,13.1,3897
+HT-34,2025-12-03,Breakdown,suspension,72.1,9668
+HT-03,2025-12-04,Breakdown,suspension,35.7,8681
+HT-20,2025-12-04,PM service,,12.2,3256
+HT-08,2025-12-05,Breakdown,hydraulics_brakes,24.1,4246
+HT-36,2025-12-05,PM service,,14.9,3432
+HT-47,2025-12-05,PM service,,9.4,2911
+HT-41,2025-12-06,Breakdown,hydraulics_brakes,12.9,8504
+HT-39,2025-12-07,PM service,,15.4,3401
+HT-07,2025-12-08,PM service,,13.2,3303
+HT-21,2025-12-08,PM service,,10.1,3469
+HT-25,2025-12-08,PM service,,9.7,2705
+HT-29,2025-12-08,PM service,,10.3,3108
+HT-32,2025-12-08,PM service,,11.7,3617
+HT-33,2025-12-08,PM service,,12.8,3250
+HT-38,2025-12-08,PM service,,16.0,3670
+HT-27,2025-12-09,PM service,,9.2,3208
+HT-36,2025-12-09,Breakdown,suspension,35.6,9320
+HT-01,2025-12-10,PM service,,14.2,2913
+HT-26,2025-12-10,PM service,,15.9,3318
+HT-02,2025-12-11,PM service,,11.9,2857
+HT-16,2025-12-11,PM service,,9.9,3070
+HT-25,2025-12-11,Breakdown,suspension,8.8,8213
+HT-31,2025-12-12,PM service,,12.8,3150
+HT-03,2025-12-13,PM service,,11.5,3363
+HT-10,2025-12-13,Breakdown,transmission,44.6,28022
+HT-02,2025-12-14,Breakdown,suspension,14.6,9122
+HT-19,2025-12-14,PM service,,10.5,3239
+HT-24,2025-12-14,Breakdown,suspension,24.2,6486
+HT-35,2025-12-14,Breakdown,transmission,78.9,50688
+HT-42,2025-12-15,PM service,,10.9,3253
+HT-11,2025-12-16,PM service,,14.3,3214
+HT-18,2025-12-16,PM service,,11.2,2900
+HT-30,2025-12-16,PM service,,12.6,3624
+HT-41,2025-12-16,Breakdown,suspension,28.3,12557
+HT-28,2025-12-17,PM service,,13.1,3242
+HT-17,2025-12-18,PM service,,8.7,3314
+HT-45,2025-12-19,Breakdown,suspension,22.4,14799
+HT-40,2025-12-21,PM service,,13.3,2971
+HT-46,2025-12-21,PM service,,14.7,3349
+HT-14,2025-12-22,PM service,,12.9,2915
+HT-25,2025-12-22,Breakdown,hydraulics_brakes,15.9,4869
+HT-38,2025-12-22,Breakdown,hydraulics_brakes,9.7,7444
+HT-04,2025-12-23,PM service,,10.7,2951
+HT-05,2025-12-23,PM service,,7.5,3401
+HT-13,2025-12-23,PM service,,10.3,2872
+HT-20,2025-12-23,Breakdown,hydraulics_brakes,27.4,8827
+HT-06,2025-12-24,PM service,,12.1,3159
+HT-12,2025-12-24,PM service,,11.5,3398
+HT-15,2025-12-24,PM service,,10.0,3208
+HT-24,2025-12-25,PM service,,14.0,3326
+HT-45,2025-12-25,PM service,,9.8,3087
+HT-48,2025-12-25,PM service,,12.4,3877
+HT-22,2025-12-26,PM service,,13.5,3339
+HT-37,2025-12-26,PM service,,14.1,3223
+HT-44,2025-12-26,PM service,,12.2,3582
+HT-16,2025-12-27,Breakdown,engine,77.0,29436
+HT-43,2025-12-27,Breakdown,suspension,31.8,12475
+HT-09,2025-12-28,PM service,,11.4,3246
+HT-17,2025-12-28,Breakdown,suspension,31.5,10412
+HT-19,2025-12-28,Breakdown,suspension,20.0,13528
+HT-23,2025-12-28,PM service,,14.0,3538
+HT-35,2025-12-28,PM service,,15.1,2924
+HT-41,2025-12-28,PM service,,14.6,2940
+HT-10,2025-12-29,PM service,,14.9,3016
+HT-08,2025-12-30,PM service,,11.3,3586
+HT-06,2025-12-31,Breakdown,transmission,75.7,23963
+HT-43,2025-12-31,PM service,,14.3,3454
+HT-47,2026-01-01,PM service,,12.0,3187
+HT-39,2026-01-03,PM service,,11.3,3449
+HT-20,2026-01-04,PM service,,12.7,3374
+HT-21,2026-01-04,PM service,,11.6,3133
+HT-36,2026-01-04,PM service,,12.2,3064
+HT-46,2026-01-04,Breakdown,hydraulics_brakes,20.4,12286
+HT-01,2026-01-06,PM service,,10.6,3220
+HT-07,2026-01-06,PM service,,12.0,2978
+HT-33,2026-01-06,PM service,,15.2,3825
+HT-42,2026-01-06,Breakdown,suspension,13.3,8419
+HT-27,2026-01-07,PM service,,12.8,3078
+HT-29,2026-01-07,PM service,,12.8,3234
+HT-33,2026-01-07,Breakdown,suspension,35.7,22501
+HT-40,2026-01-07,Breakdown,hydraulics_brakes,17.5,3829
+HT-01,2026-01-08,Breakdown,hydraulics_brakes,12.7,7522
+HT-26,2026-01-08,PM service,,11.0,2867
+HT-31,2026-01-08,PM service,,12.4,2696
+HT-38,2026-01-08,PM service,,11.7,2926
+HT-41,2026-01-08,Breakdown,hydraulics_brakes,23.4,12646
+HT-47,2026-01-08,Breakdown,engine,80.6,49800
+HT-03,2026-01-09,PM service,,11.0,2742
+HT-32,2026-01-09,PM service,,11.4,2721
+HT-02,2026-01-10,PM service,,11.6,3238
+HT-04,2026-01-10,Breakdown,hydraulics_brakes,10.4,7621
+HT-19,2026-01-11,PM service,,12.2,2875
+HT-34,2026-01-11,PM service,,10.7,3214
+HT-38,2026-01-11,Breakdown,hydraulics_brakes,11.2,5298
+HT-28,2026-01-12,PM service,,7.0,3119
+HT-30,2026-01-12,PM service,,10.6,3527
+HT-18,2026-01-13,PM service,,10.7,3433
+HT-02,2026-01-14,Breakdown,suspension,16.7,12640
+HT-06,2026-01-14,Breakdown,suspension,63.9,12075
+HT-17,2026-01-14,PM service,,12.1,2551
+HT-25,2026-01-14,PM service,,13.0,2949
+HT-42,2026-01-14,PM service,,12.9,2934
+HT-01,2026-01-16,Breakdown,suspension,14.8,14621
+HT-35,2026-01-16,Breakdown,transmission,38.3,25293
+HT-37,2026-01-16,Breakdown,suspension,24.5,9989
+HT-04,2026-01-17,PM service,,11.4,3835
+HT-05,2026-01-17,PM service,,10.4,3068
+HT-11,2026-01-17,PM service,,11.5,3205
+HT-28,2026-01-17,Breakdown,suspension,18.1,11341
+HT-09,2026-01-18,Breakdown,engine,77.9,41197
+HT-14,2026-01-18,PM service,,11.6,3515
+HT-23,2026-01-18,PM service,,12.3,3376
+HT-40,2026-01-18,PM service,,13.0,3107
+HT-45,2026-01-18,PM service,,9.6,3067
+HT-14,2026-01-19,Breakdown,hydraulics_brakes,9.4,14542
+HT-15,2026-01-20,PM service,,9.2,3900
+HT-13,2026-01-21,PM service,,10.9,3610
+HT-27,2026-01-21,Breakdown,engine,71.2,37553
+HT-07,2026-01-22,Breakdown,hydraulics_brakes,15.0,6750
+HT-16,2026-01-22,PM service,,11.3,2983
+HT-24,2026-01-22,PM service,,12.0,2522
+HT-12,2026-01-23,PM service,,12.3,3107
+HT-48,2026-01-23,PM service,,11.3,3169
+HT-06,2026-01-24,PM service,,11.2,3008
+HT-34,2026-01-24,Breakdown,suspension,16.3,13936
+HT-46,2026-01-24,PM service,,12.8,3424
+HT-08,2026-01-25,PM service,,7.4,2585
+HT-19,2026-01-25,Breakdown,engine,71.2,45186
+HT-01,2026-01-26,Breakdown,hydraulics_brakes,14.2,10148
+HT-22,2026-01-26,PM service,,11.0,2789
+HT-10,2026-01-27,PM service,,10.2,2679
+HT-20,2026-01-27,PM service,,10.0,3750
+HT-41,2026-01-27,PM service,,11.8,3169
+HT-09,2026-01-28,PM service,,13.3,3501
+HT-35,2026-01-29,PM service,,10.9,3024
+HT-43,2026-01-29,PM service,,13.8,2963
+HT-16,2026-01-31,Breakdown,suspension,45.3,7771
+HT-20,2026-01-31,Breakdown,hydraulics_brakes,34.8,11529
+HT-36,2026-01-31,PM service,,9.9,2729
+HT-39,2026-02-01,PM service,,10.5,2937
+HT-46,2026-02-01,Breakdown,suspension,32.5,11558
+HT-21,2026-02-02,PM service,,11.2,3943
+HT-21,2026-02-03,Breakdown,engine,61.9,70431
+HT-26,2026-02-03,PM service,,14.4,2920
+HT-38,2026-02-03,PM service,,8.9,2897
+HT-47,2026-02-03,PM service,,9.3,3459
+HT-27,2026-02-05,PM service,,13.7,3136
+HT-28,2026-02-05,PM service,,12.2,3058
+HT-31,2026-02-05,PM service,,12.3,3766
+HT-03,2026-02-06,PM service,,10.3,3178
+HT-07,2026-02-06,PM service,,16.5,3288
+HT-09,2026-02-06,Breakdown,transmission,44.0,55219
+HT-23,2026-02-06,Breakdown,engine,64.1,33926
+HT-32,2026-02-06,PM service,,11.1,3569
+HT-33,2026-02-06,PM service,,9.2,3307
+HT-35,2026-02-06,Breakdown,suspension,22.8,17168
+HT-37,2026-02-06,PM service,,12.0,3466
+HT-03,2026-02-07,Breakdown,suspension,21.0,13890
+HT-15,2026-02-07,Breakdown,transmission,104.9,38971
+HT-19,2026-02-07,Breakdown,hydraulics_brakes,11.1,7630
+HT-13,2026-02-08,Breakdown,suspension,42.2,10414
+HT-02,2026-02-09,PM service,,9.6,3241
+HT-05,2026-02-09,Breakdown,suspension,21.2,13882
+HT-39,2026-02-09,Breakdown,suspension,35.3,9050
+HT-44,2026-02-09,PM service,,16.2,2637
+HT-30,2026-02-10,PM service,,13.9,2862
+HT-32,2026-02-10,Breakdown,engine,48.4,30600
+HT-34,2026-02-10,Breakdown,transmission,27.2,32090
+HT-01,2026-02-11,PM service,,13.3,2762
+HT-18,2026-02-11,PM service,,10.1,3575
+HT-10,2026-02-12,Breakdown,hydraulics_brakes,14.2,6603
+HT-29,2026-02-12,PM service,,10.5,3032
+HT-11,2026-02-13,PM service,,13.3,3431
+HT-27,2026-02-13,Breakdown,transmission,62.6,27486
+HT-42,2026-02-13,PM service,,15.6,3471
+HT-44,2026-02-13,Breakdown,suspension,41.4,15299
+HT-05,2026-02-14,PM service,,13.3,3496
+HT-19,2026-02-15,PM service,,11.5,3860
+HT-40,2026-02-15,PM service,,13.3,3330
+HT-23,2026-02-16,PM service,,16.0,3170
+HT-04,2026-02-17,PM service,,15.3,2540
+HT-06,2026-02-17,PM service,,13.4,2798
+HT-14,2026-02-17,PM service,,12.3,3623
+HT-13,2026-02-18,PM service,,11.2,3045
+HT-24,2026-02-18,PM service,,11.7,2993
+HT-34,2026-02-19,PM service,,11.7,2882
+HT-45,2026-02-19,PM service,,15.1,3450
+HT-48,2026-02-19,PM service,,10.9,2859
+HT-15,2026-02-20,Breakdown,hydraulics_brakes,11.0,5084
+HT-17,2026-02-20,PM service,,9.4,3413
+HT-02,2026-02-21,Breakdown,hydraulics_brakes,20.9,5355
+HT-16,2026-02-21,PM service,,12.9,3374
+HT-22,2026-02-21,Breakdown,hydraulics_brakes,16.8,6404
+HT-41,2026-02-21,Breakdown,hydraulics_brakes,5.4,7029
+HT-08,2026-02-22,PM service,,14.3,2912
+HT-12,2026-02-22,PM service,,11.4,3276
+HT-15,2026-02-22,PM service,,9.6,2651
+HT-10,2026-02-23,PM service,,12.8,3383
+HT-12,2026-02-23,Breakdown,transmission,59.2,22369
+HT-21,2026-02-23,Breakdown,suspension,36.4,10794
+HT-37,2026-02-24,Breakdown,hydraulics_brakes,13.3,7656
+HT-41,2026-02-24,PM service,,13.7,3723
+HT-43,2026-02-24,PM service,,8.9,3656
+HT-46,2026-02-24,PM service,,10.0,2616
+HT-26,2026-02-26,Breakdown,hydraulics_brakes,32.5,4957
+HT-20,2026-02-27,PM service,,12.6,2821
+HT-35,2026-02-27,PM service,,13.0,3372
+HT-36,2026-02-27,PM service,,11.5,3187
+HT-38,2026-02-28,Breakdown,suspension,88.6,12382
+HT-39,2026-02-28,PM service,,10.9,3166
+HT-47,2026-03-01,PM service,,9.7,2617
+HT-04,2026-03-03,Breakdown,hydraulics_brakes,17.2,10973
+HT-09,2026-03-03,PM service,,12.1,3192
+HT-25,2026-03-03,PM service,,10.0,3497
+HT-26,2026-03-03,PM service,,14.0,3153
+HT-33,2026-03-03,PM service,,17.4,2874
+HT-10,2026-03-05,Breakdown,transmission,54.9,27849
+HT-22,2026-03-05,PM service,,10.3,3327
+HT-28,2026-03-05,PM service,,11.6,2952
+HT-44,2026-03-05,Breakdown,transmission,39.2,24791
+HT-07,2026-03-06,PM service,,11.5,3259
+HT-24,2026-03-06,Breakdown,hydraulics_brakes,9.2,8650
+HT-31,2026-03-06,PM service,,11.7,3605
+HT-32,2026-03-06,PM service,,10.8,3484
+HT-25,2026-03-07,Breakdown,engine,64.8,24417
+HT-27,2026-03-07,PM service,,11.5,3448
+HT-03,2026-03-08,PM service,,12.8,3236
+HT-17,2026-03-08,Breakdown,engine,107.0,67845
+HT-18,2026-03-09,Breakdown,hydraulics_brakes,16.9,7928
+HT-38,2026-03-09,PM service,,15.2,3074
+HT-02,2026-03-10,PM service,,10.3,3296
+HT-21,2026-03-10,PM service,,16.2,2995
+HT-40,2026-03-10,Breakdown,suspension,14.0,13297
+HT-44,2026-03-10,PM service,,10.0,3147
+HT-01,2026-03-11,PM service,,10.7,3079
+HT-06,2026-03-11,Breakdown,hydraulics_brakes,21.5,7234
+HT-30,2026-03-11,PM service,,13.3,3176
+HT-37,2026-03-12,PM service,,13.2,3147
+HT-42,2026-03-12,PM service,,16.7,3405
+HT-28,2026-03-13,Breakdown,hydraulics_brakes,11.0,5236
+HT-29,2026-03-13,PM service,,11.0,3281
+HT-06,2026-03-14,Breakdown,transmission,90.8,22949
+HT-11,2026-03-14,PM service,,13.7,3207
+HT-19,2026-03-14,PM service,,13.6,3236
+HT-18,2026-03-15,PM service,,9.2,3448
+HT-23,2026-03-15,PM service,,12.9,3203
+HT-25,2026-03-15,Breakdown,transmission,92.2,37810
+HT-14,2026-03-16,PM service,,13.1,3084
+HT-40,2026-03-16,PM service,,10.4,2963
+HT-04,2026-03-17,PM service,,13.9,3553
+HT-13,2026-03-18,PM service,,11.3,3164
+HT-06,2026-03-19,Breakdown,suspension,25.8,12849
+HT-24,2026-03-19,PM service,,11.9,3232
+HT-45,2026-03-19,PM service,,10.6,3305
+HT-15,2026-03-20,PM service,,10.5,2904
+HT-01,2026-03-21,Breakdown,hydraulics_brakes,8.7,4423
+HT-05,2026-03-21,PM service,,12.6,2964
+HT-16,2026-03-21,PM service,,11.2,2985
+HT-06,2026-03-22,PM service,,10.9,3330
+HT-08,2026-03-22,PM service,,10.8,3521
+HT-43,2026-03-22,PM service,,10.9,3325
+HT-09,2026-03-23,Breakdown,engine,89.8,37783
+HT-35,2026-03-23,PM service,,14.3,3211
+HT-10,2026-03-24,PM service,,10.4,2631
+HT-36,2026-03-24,Breakdown,suspension,23.2,15516
+HT-43,2026-03-24,Breakdown,engine,96.2,37719
+HT-17,2026-03-25,PM service,,12.4,3334
+HT-46,2026-03-25,PM service,,14.5,3382
+HT-23,2026-03-26,Breakdown,suspension,33.8,13328
+HT-41,2026-03-26,PM service,,12.8,3541
+HT-14,2026-03-27,Breakdown,hydraulics_brakes,4.9,5593
+HT-36,2026-03-27,PM service,,11.6,3316
+HT-34,2026-03-28,PM service,,9.9,3348
+HT-47,2026-03-28,Breakdown,hydraulics_brakes,18.3,8356
+HT-05,2026-03-29,Breakdown,hydraulics_brakes,8.7,6568
+HT-20,2026-03-29,PM service,,13.4,3400
+HT-26,2026-03-29,PM service,,9.4,3333
+HT-27,2026-03-29,Breakdown,hydraulics_brakes,11.2,11339
+HT-39,2026-03-29,PM service,,12.9,2576
+HT-15,2026-03-31,Breakdown,engine,115.0,31452
+HT-24,2026-03-31,Breakdown,transmission,39.8,23593
+HT-28,2026-03-31,PM service,,11.8,3291
+HT-41,2026-03-31,Breakdown,engine,93.3,60798
+HT-47,2026-03-31,PM service,,11.1,3538
+HT-12,2026-04-01,PM service,,12.7,3535
+HT-33,2026-04-01,Breakdown,suspension,24.2,11690
+HT-48,2026-04-01,PM service,,9.3,3474
+HT-07,2026-04-02,PM service,,11.3,3167
+HT-09,2026-04-03,PM service,,11.2,2681
+HT-22,2026-04-03,Breakdown,engine,83.0,37013
+HT-24,2026-04-03,Breakdown,hydraulics_brakes,11.1,3077
+HT-31,2026-04-04,PM service,,11.5,3347
+HT-44,2026-04-04,PM service,,8.6,3631
+HT-03,2026-04-05,PM service,,12.0,2961
+HT-01,2026-04-06,PM service,,13.8,3265
+HT-03,2026-04-06,Breakdown,hydraulics_brakes,18.5,8729
+HT-27,2026-04-06,PM service,,8.7,3474
+HT-32,2026-04-06,PM service,,11.0,2406
+HT-11,2026-04-08,PM service,,11.4,3092
+HT-18,2026-04-08,PM service,,10.6,3237
+HT-25,2026-04-08,PM service,,17.4,2703
+HT-30,2026-04-08,PM service,,10.8,2444
+HT-37,2026-04-08,Breakdown,hydraulics_brakes,14.3,5653
+HT-42,2026-04-08,PM service,,9.8,2956
+HT-48,2026-04-08,Breakdown,hydraulics_brakes,15.4,5104
+HT-02,2026-04-09,PM service,,13.4,3464
+HT-04,2026-04-09,PM service,,12.5,3093
+HT-07,2026-04-09,Breakdown,transmission,59.1,27889
+HT-19,2026-04-09,PM service,,12.9,3203
+HT-43,2026-04-10,Breakdown,transmission,48.1,32946
+HT-22,2026-04-11,PM service,,12.7,2902
+HT-01,2026-04-12,Breakdown,hydraulics_brakes,17.6,10139
+HT-21,2026-04-12,PM service,,12.7,3228
+HT-38,2026-04-12,PM service,,13.6,2737
+HT-14,2026-04-13,PM service,,11.4,3151
+HT-23,2026-04-13,PM service,,10.1,3339
+HT-45,2026-04-13,PM service,,10.9,2980
+HT-14,2026-04-14,Breakdown,hydraulics_brakes,39.8,6405
+HT-17,2026-04-14,Breakdown,engine,78.9,67065
+HT-13,2026-04-15,PM service,,15.3,3229
+HT-29,2026-04-15,PM service,,13.9,3119
+HT-40,2026-04-15,PM service,,14.2,2735
+HT-33,2026-04-16,PM service,,11.0,3368
+HT-37,2026-04-16,PM service,,11.8,3298
+HT-05,2026-04-18,PM service,,12.1,3076
+HT-16,2026-04-18,PM service,,13.3,2826
+HT-38,2026-04-18,Breakdown,engine,134.1,37440
+HT-46,2026-04-18,Breakdown,engine,107.2,26809
+HT-14,2026-04-19,Breakdown,engine,63.5,54273
+HT-16,2026-04-21,Breakdown,suspension,34.2,9683
+HT-44,2026-04-21,Breakdown,transmission,45.9,13576
+HT-24,2026-04-22,PM service,,10.7,2823
+HT-28,2026-04-22,Breakdown,hydraulics_brakes,11.4,7919
+HT-08,2026-04-23,PM service,,9.9,2366
+HT-11,2026-04-23,Breakdown,suspension,30.1,10058
+HT-15,2026-04-23,PM service,,8.1,2958
+HT-41,2026-04-23,Breakdown,engine,80.4,22350
+HT-01,2026-04-24,Breakdown,engine,68.0,38258
+HT-06,2026-04-24,PM service,,14.5,2902
+HT-35,2026-04-24,Breakdown,transmission,52.9,23449
+HT-46,2026-04-24,Breakdown,transmission,79.8,34943
+HT-26,2026-04-25,PM service,,10.2,3234
+HT-34,2026-04-26,PM service,,9.6,3465
+HT-43,2026-04-26,PM service,,12.9,3310
+HT-45,2026-04-26,Breakdown,engine,98.0,39969
+HT-06,2026-04-27,Breakdown,transmission,49.8,14553
+HT-20,2026-04-27,PM service,,12.8,3369
+HT-35,2026-04-27,Breakdown,hydraulics_brakes,13.1,11059
+HT-39,2026-04-27,PM service,,12.0,3212
+HT-44,2026-04-27,Breakdown,suspension,32.1,9293
+HT-17,2026-04-28,PM service,,11.1,2975
+HT-36,2026-04-29,PM service,,13.5,3204
+HT-10,2026-04-30,PM service,,14.5,3399
+HT-12,2026-04-30,PM service,,15.9,2910
+HT-28,2026-04-30,PM service,,11.4,3197
+HT-31,2026-04-30,PM service,,13.7,3352
+HT-46,2026-04-30,PM service,,10.2,3695
+HT-21,2026-05-01,Breakdown,transmission,59.6,36679
+HT-27,2026-05-01,PM service,,12.9,3414
+HT-41,2026-05-01,PM service,,14.4,2852
+HT-46,2026-05-01,Breakdown,suspension,22.7,13356
+HT-47,2026-05-01,PM service,,8.6,3819
+HT-07,2026-05-02,PM service,,13.2,3329
+HT-09,2026-05-02,PM service,,13.3,3632
+HT-35,2026-05-02,PM service,,10.9,3199
+HT-29,2026-05-03,Breakdown,suspension,28.3,10001
+HT-15,2026-05-04,Breakdown,transmission,82.9,44792
+HT-03,2026-05-05,PM service,,10.5,2830
+HT-11,2026-05-06,PM service,,13.5,2582
+HT-22,2026-05-06,PM service,,13.7,3019
+HT-25,2026-05-06,PM service,,10.6,3540
+HT-02,2026-05-07,PM service,,12.1,3269
+HT-11,2026-05-07,Breakdown,hydraulics_brakes,16.4,7866
+HT-19,2026-05-07,PM service,,12.5,3715
+HT-35,2026-05-07,Breakdown,suspension,17.1,9409
+HT-42,2026-05-07,PM service,,9.3,3100
+HT-08,2026-05-08,Breakdown,hydraulics_brakes,9.1,10239
+HT-26,2026-05-08,Breakdown,hydraulics_brakes,17.4,7266
+HT-32,2026-05-08,PM service,,12.5,2639
+HT-33,2026-05-08,Breakdown,engine,56.1,65302
+HT-01,2026-05-09,PM service,,11.5,3414
+HT-18,2026-05-09,PM service,,9.4,3160
+HT-21,2026-05-09,Breakdown,hydraulics_brakes,12.7,9858
+HT-27,2026-05-09,Breakdown,suspension,30.2,8888
+HT-30,2026-05-09,PM service,,9.2,3379
+HT-48,2026-05-09,PM service,,12.1,2825
+HT-06,2026-05-11,Breakdown,engine,78.1,65979
+HT-23,2026-05-11,PM service,,14.6,2900
+HT-02,2026-05-12,Breakdown,transmission,51.2,26020
+HT-44,2026-05-12,PM service,,12.4,2778
+HT-22,2026-05-13,Breakdown,suspension,9.7,5313
+HT-32,2026-05-13,Breakdown,suspension,22.8,17199
+HT-45,2026-05-13,PM service,,10.7,3085
+HT-10,2026-05-15,Breakdown,suspension,30.2,7077
+HT-13,2026-05-16,PM service,,12.3,2849
+HT-21,2026-05-16,PM service,,15.0,3363
+HT-22,2026-05-16,Breakdown,hydraulics_brakes,14.8,7637
+HT-05,2026-05-17,PM service,,10.9,3105
+HT-07,2026-05-17,Breakdown,hydraulics_brakes,11.8,4022
+HT-16,2026-05-17,PM service,,11.4,3133
+HT-29,2026-05-17,PM service,,15.2,2899
+HT-37,2026-05-17,PM service,,14.1,3289
+HT-38,2026-05-17,PM service,,12.3,2784
+HT-14,2026-05-18,PM service,,11.6,2928
+HT-39,2026-05-18,Breakdown,hydraulics_brakes,17.7,6002
+HT-40,2026-05-18,PM service,,12.5,3317
+HT-17,2026-05-19,PM service,,8.0,3063
+HT-31,2026-05-19,Breakdown,transmission,31.1,31021
+HT-33,2026-05-19,PM service,,11.5,3223
+HT-43,2026-05-20,Breakdown,hydraulics_brakes,13.3,7612
+HT-48,2026-05-20,Breakdown,engine,77.8,58389
+HT-23,2026-05-21,Breakdown,hydraulics_brakes,14.0,6969
+HT-34,2026-05-21,PM service,,10.4,2977
+HT-24,2026-05-22,PM service,,13.4,3173
+HT-15,2026-05-23,PM service,,14.1,3129
+HT-28,2026-05-23,PM service,,12.0,2727
+HT-04,2026-05-24,Breakdown,suspension,21.5,16429
+HT-08,2026-05-24,PM service,,12.4,3126
+HT-26,2026-05-24,PM service,,11.6,2841
+HT-39,2026-05-24,PM service,,11.8,2983
+HT-43,2026-05-24,PM service,,13.4,2976
+HT-12,2026-05-25,PM service,,11.8,3094
+HT-16,2026-05-25,Breakdown,transmission,123.1,33854
+HT-05,2026-05-26,Breakdown,transmission,23.6,36796
+HT-09,2026-05-26,Breakdown,suspension,37.6,9632
+HT-20,2026-05-26,PM service,,12.5,3070
+HT-26,2026-05-26,Breakdown,transmission,31.3,14386
+HT-36,2026-05-26,PM service,,15.8,3770
+HT-04,2026-05-27,PM service,,13.3,2783
+HT-40,2026-05-27,Breakdown,hydraulics_brakes,16.7,7636
+HT-47,2026-05-27,PM service,,10.8,2953
+HT-10,2026-05-28,PM service,,13.6,3431
+HT-27,2026-05-28,PM service,,12.3,3329
+HT-46,2026-05-28,PM service,,13.1,3339
+HT-02,2026-05-29,Breakdown,suspension,26.6,12804
+HT-07,2026-05-29,PM service,,8.4,3216
+HT-31,2026-05-29,Breakdown,suspension,45.7,25119
+HT-09,2026-05-30,PM service,,14.1,3602
+HT-35,2026-05-30,PM service,,14.3,3159
+HT-25,2026-05-31,PM service,,10.5,2881
+HT-41,2026-05-31,PM service,,15.1,3899
+HT-11,2026-06-01,PM service,,13.2,3227
+HT-14,2026-06-01,Breakdown,transmission,40.3,29635
+HT-16,2026-06-01,Breakdown,engine,57.3,59749
+HT-24,2026-06-01,Breakdown,hydraulics_brakes,19.7,8302
+HT-31,2026-06-01,PM service,,10.1,3246
+HT-06,2026-06-02,PM service,,7.5,2789
+HT-09,2026-06-02,Breakdown,hydraulics_brakes,10.1,11706
+HT-22,2026-06-02,PM service,,16.3,3142
+HT-47,2026-06-03,Breakdown,engine,79.9,51523
+HT-02,2026-06-04,Breakdown,engine,54.8,40049
+HT-30,2026-06-04,PM service,,10.4,3425
+HT-46,2026-06-04,Breakdown,hydraulics_brakes,17.2,4011
+HT-01,2026-06-06,PM service,,14.9,2637
+HT-32,2026-06-06,PM service,,16.7,3181
+HT-42,2026-06-06,PM service,,15.1,3409
+HT-03,2026-06-08,PM service,,9.0,3021
+HT-18,2026-06-08,Breakdown,suspension,30.1,10770
+HT-02,2026-06-09,PM service,,13.8,2941
+HT-37,2026-06-10,PM service,,9.5,3174
+HT-13,2026-06-11,PM service,,8.3,3168
+HT-21,2026-06-11,PM service,,13.1,3273
+HT-29,2026-06-11,PM service,,8.2,3451
+HT-48,2026-06-11,PM service,,10.2,3574
+HT-23,2026-06-12,PM service,,10.2,3155
+HT-45,2026-06-13,PM service,,15.5,2995
+HT-46,2026-06-13,Breakdown,hydraulics_brakes,13.6,9149
+HT-47,2026-06-13,Breakdown,transmission,90.1,30297
+HT-06,2026-06-14,Breakdown,hydraulics_brakes,18.3,11747
+HT-34,2026-06-14,PM service,,11.3,3253
+HT-40,2026-06-14,PM service,,11.1,3012
+HT-45,2026-06-14,Breakdown,suspension,46.7,16978
+HT-05,2026-06-15,PM service,,6.9,3621
+HT-09,2026-06-17,Breakdown,transmission,53.2,31781
+HT-10,2026-06-17,Breakdown,transmission,26.1,34798
+HT-24,2026-06-17,Breakdown,engine,42.1,40923
+HT-14,2026-06-18,PM service,,10.3,2751
+HT-18,2026-06-18,PM service,,15.7,3316
+HT-43,2026-06-18,PM service,,8.3,3019
+HT-26,2026-06-19,Breakdown,engine,65.5,42403
+HT-27,2026-06-19,Breakdown,suspension,14.0,18497
+HT-28,2026-06-19,PM service,,12.1,2779
+HT-33,2026-06-19,PM service,,11.3,2856
+HT-08,2026-06-20,PM service,,14.0,2663
+HT-39,2026-06-20,PM service,,11.5,3377
+HT-12,2026-06-21,PM service,,13.9,3984
+HT-15,2026-06-21,PM service,,11.7,3397
+HT-19,2026-06-21,PM service,,10.5,3317
+HT-38,2026-06-21,PM service,,10.2,3013
+HT-41,2026-06-21,Breakdown,hydraulics_brakes,9.1,10854
+HT-11,2026-06-22,Breakdown,hydraulics_brakes,17.0,10014
+HT-38,2026-06-22,Breakdown,engine,72.3,27020
+HT-24,2026-06-23,PM service,,14.1,2938
+HT-26,2026-06-24,PM service,,14.3,3754
+HT-46,2026-06-24,Breakdown,transmission,88.7,24608
+HT-04,2026-06-25,PM service,,10.3,2944
+HT-07,2026-06-25,PM service,,9.9,3368
+HT-20,2026-06-26,PM service,,12.4,3290
+HT-27,2026-06-26,PM service,,11.4,3310
+HT-36,2026-06-26,PM service,,14.1,3142
+HT-35,2026-06-27,PM service,,12.6,2850
+HT-10,2026-06-28,PM service,,15.8,3216
+HT-25,2026-06-28,PM service,,7.7,3047
+HT-31,2026-06-28,PM service,,14.1,3386
+HT-36,2026-06-28,Breakdown,transmission,44.3,32295
+HT-25,2026-06-29,Breakdown,transmission,60.2,23732
+HT-44,2026-06-29,Breakdown,suspension,15.6,9486
+HT-06,2026-06-30,PM service,,8.6,2621
+HT-11,2026-07-01,PM service,,10.9,3347
+HT-17,2026-07-01,Breakdown,hydraulics_brakes,19.0,7665
+HT-22,2026-07-01,PM service,,13.4,3321
+HT-32,2026-07-02,Breakdown,suspension,37.7,16370
+HT-17,2026-07-03,PM service,,12.6,3077
+HT-09,2026-07-04,PM service,,14.7,2988
+HT-30,2026-07-04,PM service,,11.0,3126
+HT-42,2026-07-04,PM service,,10.0,3587
+HT-01,2026-07-05,PM service,,9.8,3305
+HT-41,2026-07-05,PM service,,14.3,2823
+HT-44,2026-07-05,Breakdown,transmission,42.4,23025
+HT-33,2026-07-06,Breakdown,engine,100.4,28303
+HT-39,2026-07-06,Breakdown,suspension,22.2,9535
+HT-47,2026-07-06,PM service,,17.1,3822
+HT-03,2026-07-07,PM service,,13.1,3260
+HT-24,2026-07-07,Breakdown,suspension,24.7,10380
+HT-29,2026-07-07,PM service,,14.4,2886
+HT-46,2026-07-07,PM service,,7.9,3184
+HT-13,2026-07-08,PM service,,13.1,3048
+HT-19,2026-07-08,Breakdown,hydraulics_brakes,20.0,6638
+HT-32,2026-07-08,PM service,,12.0,3231
+HT-16,2026-07-09,PM service,,9.4,3388
+HT-21,2026-07-09,PM service,,12.7,3167
+HT-39,2026-07-09,Breakdown,engine,107.8,75990
+HT-40,2026-07-09,PM service,,13.3,2564
+HT-28,2026-07-10,Breakdown,suspension,16.4,11330
+HT-14,2026-07-11,Breakdown,engine,41.0,32461
+HT-23,2026-07-11,PM service,,9.0,3133
+HT-37,2026-07-11,PM service,,8.5,2945
+HT-02,2026-07-12,Breakdown,engine,89.1,59147
+HT-06,2026-07-12,Breakdown,engine,55.2,35285
+HT-17,2026-07-12,Breakdown,hydraulics_brakes,17.8,7994
+HT-27,2026-07-12,Breakdown,suspension,9.6,5856
+HT-34,2026-07-12,Breakdown,hydraulics_brakes,10.5,4897
+HT-11,2026-07-13,Breakdown,suspension,16.9,15172
+HT-40,2026-07-14,Breakdown,engine,72.4,28728
+HT-11,2026-07-15,Breakdown,transmission,30.2,20670
+HT-35,2026-07-16,Breakdown,suspension,22.4,13601
+HT-44,2026-07-16,PM service,,10.5,3677
+HT-08,2026-07-17,PM service,,10.1,3145
+HT-34,2026-07-17,PM service,,14.5,2740
+HT-05,2026-07-18,PM service,,13.8,3445
+HT-15,2026-07-18,PM service,,13.7,3764
+HT-18,2026-07-18,PM service,,10.9,2814
+HT-43,2026-07-18,PM service,,13.8,3398
+HT-45,2026-07-18,PM service,,11.9,3113
+HT-42,2026-07-19,Breakdown,hydraulics_brakes,27.0,6022
+HT-02,2026-07-20,PM service,,10.7,2856
+HT-12,2026-07-20,PM service,,10.1,2654
+HT-14,2026-07-20,PM service,,11.0,3405
+HT-19,2026-07-20,PM service,,9.9,3504
+HT-20,2026-07-20,PM service,,11.3,3189
+HT-33,2026-07-20,PM service,,12.3,3396
+HT-48,2026-07-20,PM service,,8.1,2977
+HT-02,2026-07-21,Breakdown,suspension,12.0,5928
+HT-07,2026-07-21,Breakdown,hydraulics_brakes,7.8,6572
+HT-40,2026-07-21,Breakdown,hydraulics_brakes,9.9,3731
+HT-04,2026-07-22,PM service,,11.7,3002
+HT-21,2026-07-22,Breakdown,engine,106.7,61769
+HT-24,2026-07-22,PM service,,13.8,3157
+HT-04,2026-07-23,Breakdown,suspension,38.6,16366
+HT-23,2026-07-23,Breakdown,hydraulics_brakes,22.0,4179
+HT-26,2026-07-23,PM service,,9.5,3113
+HT-28,2026-07-23,PM service,,13.8,3201
+HT-31,2026-07-23,PM service,,14.0,3534
+HT-28,2026-07-24,Breakdown,hydraulics_brakes,18.7,7989
+HT-36,2026-07-24,PM service,,13.4,3031
+HT-38,2026-07-24,PM service,,12.6,3316
+HT-10,2026-07-25,PM service,,13.6,3170
+HT-13,2026-07-25,Breakdown,hydraulics_brakes,15.6,7751
+HT-47,2026-07-25,Breakdown,suspension,32.8,12664
+HT-25,2026-07-26,PM service,,12.0,3166
+HT-27,2026-07-26,PM service,,14.6,2946
+HT-35,2026-07-26,PM service,,12.6,3131
+HT-07,2026-07-27,PM service,,14.0,3314
+HT-11,2026-07-28,PM service,,11.9,3388
+HT-14,2026-07-28,Breakdown,suspension,32.0,8829
+HT-45,2026-07-28,Breakdown,hydraulics_brakes,22.7,4313
+HT-09,2026-07-29,PM service,,14.0,2960
+HT-22,2026-07-29,PM service,,12.7,3206
+HT-41,2026-07-29,PM service,,12.9,2510
+HT-09,2026-07-30,Breakdown,suspension,16.8,11643
+HT-40,2026-07-30,Breakdown,engine,57.0,44244
+HT-39,2026-07-31,PM service,,8.7,3391
+HT-01,2026-08-01,PM service,,10.9,3327
+HT-03,2026-08-02,PM service,,12.4,3760
+HT-08,2026-08-02,Breakdown,engine,84.6,42048
+HT-26,2026-08-02,Breakdown,suspension,27.3,10761
+HT-17,2026-08-03,PM service,,12.4,3180
+HT-29,2026-08-03,PM service,,11.0,2982
+HT-42,2026-08-03,PM service,,13.5,3004
+HT-46,2026-08-04,PM service,,9.8,3040
+HT-47,2026-08-04,PM service,,13.5,3326
+HT-40,2026-08-05,Breakdown,hydraulics_brakes,6.8,9985
+HT-48,2026-08-05,Breakdown,hydraulics_brakes,14.8,8470
+HT-08,2026-08-07,Breakdown,transmission,56.6,19982
+HT-23,2026-08-07,PM service,,11.8,3053
+HT-38,2026-08-07,Breakdown,transmission,64.9,58445
+HT-06,2026-08-08,PM service,,11.2,3000
+HT-13,2026-08-08,PM service,,13.9,2781
+HT-37,2026-08-08,PM service,,12.7,3334
+HT-01,2026-08-10,Breakdown,hydraulics_brakes,12.9,8575
+HT-21,2026-08-10,PM service,,11.0,3184
+HT-32,2026-08-10,PM service,,15.9,3382
+HT-43,2026-08-10,Breakdown,hydraulics_brakes,8.9,8170
+HT-40,2026-08-11,PM service,,10.8,3049
+HT-17,2026-08-12,Breakdown,suspension,19.6,12325
+HT-07,2026-08-13,Breakdown,suspension,22.7,9170
+HT-19,2026-08-13,PM service,,12.2,3280
+HT-43,2026-08-13,PM service,,12.3,3497
+HT-05,2026-08-14,PM service,,12.0,3211
+HT-29,2026-08-14,Breakdown,engine,63.1,38029
+HT-30,2026-08-14,PM service,,11.7,3295
+HT-44,2026-08-14,PM service,,9.6,3187
+HT-20,2026-08-15,PM service,,9.3,3544
+HT-15,2026-08-16,PM service,,14.4,3312
+HT-18,2026-08-16,PM service,,13.5,3579
+HT-28,2026-08-16,PM service,,12.5,3715
+HT-34,2026-08-16,PM service,,9.7,3248
+HT-01,2026-08-17,Breakdown,engine,46.1,20392
+HT-04,2026-08-17,Breakdown,suspension,32.1,9973
+HT-12,2026-08-17,PM service,,11.9,3129
+HT-16,2026-08-17,PM service,,13.9,3148
+HT-33,2026-08-17,PM service,,12.0,3623
+HT-45,2026-08-17,PM service,,13.9,2869
+HT-31,2026-08-18,Breakdown,hydraulics_brakes,7.3,5695
+HT-48,2026-08-18,PM service,,13.6,3272
+HT-25,2026-08-19,PM service,,12.5,3284
+HT-08,2026-08-20,PM service,,11.2,3638
+HT-13,2026-08-20,Breakdown,engine,87.1,66130
+HT-14,2026-08-20,PM service,,13.1,3331
+HT-30,2026-08-20,Breakdown,suspension,21.3,8936
+HT-04,2026-08-21,Breakdown,transmission,64.0,20997
+HT-44,2026-08-21,Breakdown,transmission,39.5,37028
+HT-07,2026-08-22,PM service,,8.9,3152
+HT-23,2026-08-22,Breakdown,suspension,26.0,9889
+HT-35,2026-08-22,PM service,,6.5,3601
+HT-01,2026-08-23,Breakdown,suspension,28.6,11719
+HT-05,2026-08-23,Breakdown,hydraulics_brakes,20.4,6412
+HT-07,2026-08-23,Breakdown,hydraulics_brakes,10.6,5071
+HT-09,2026-08-23,Breakdown,engine,88.8,44808
+HT-11,2026-08-23,PM service,,8.4,3168
+HT-26,2026-08-24,PM service,,11.5,3163
+HT-27,2026-08-24,PM service,,10.7,3242
+HT-02,2026-08-25,PM service,,12.4,3685
+HT-24,2026-08-25,Breakdown,transmission,38.7,24591
+HT-31,2026-08-25,PM service,,10.6,3599
+HT-41,2026-08-25,PM service,,12.8,2921
+HT-04,2026-08-26,PM service,,15.1,2988
+HT-36,2026-08-26,PM service,,14.5,2886
+HT-39,2026-08-26,PM service,,10.2,3118
+HT-42,2026-08-26,PM service,,8.1,3056
+HT-38,2026-08-27,Breakdown,engine,56.5,71533
+HT-06,2026-08-28,Breakdown,engine,62.6,28886
+HT-09,2026-08-28,Breakdown,hydraulics_brakes,13.1,4703
+HT-12,2026-08-28,Breakdown,suspension,18.2,7931
+HT-22,2026-08-28,PM service,,9.9,3886
+HT-47,2026-08-28,PM service,,13.2,2841
+HT-22,2026-08-29,Breakdown,hydraulics_brakes,18.2,5269
+HT-24,2026-08-29,Breakdown,hydraulics_brakes,15.2,4901
+HT-28,2026-08-29,Breakdown,suspension,44.0,10471
+HT-03,2026-08-30,PM service,,11.1,3619
+HT-25,2026-08-30,Breakdown,engine,63.4,78497
+HT-15,2026-08-31,Breakdown,suspension,15.3,7323
+HT-17,2026-08-31,PM service,,7.0,3327
+HT-29,2026-08-31,PM service,,11.0,3573
+HT-38,2026-09-01,PM service,,11.5,3141
+HT-19,2026-09-02,Breakdown,engine,69.8,30568
+HT-24,2026-09-02,PM service,,12.8,3238
+HT-07,2026-09-03,Breakdown,hydraulics_brakes,10.5,5795
+HT-08,2026-09-03,Breakdown,engine,37.8,66203
+HT-09,2026-09-04,PM service,,13.5,3407
+HT-37,2026-09-04,Breakdown,hydraulics_brakes,9.9,7504
+HT-40,2026-09-04,PM service,,10.8,3693
+HT-46,2026-09-04,Breakdown,hydraulics_brakes,11.2,4550
+HT-01,2026-09-05,PM service,,10.2,2817
+HT-31,2026-09-05,Breakdown,transmission,49.5,33396
+HT-37,2026-09-05,PM service,,11.0,3152
+HT-08,2026-09-06,Breakdown,suspension,16.2,19306
+HT-13,2026-09-06,Breakdown,suspension,31.5,8745
+HT-21,2026-09-06,Breakdown,suspension,24.1,8185
+HT-46,2026-09-06,PM service,,11.2,3397
+HT-06,2026-09-07,PM service,,13.6,3189
+HT-23,2026-09-07,PM service,,10.2,2895
+HT-32,2026-09-07,PM service,,14.9,2789
+HT-41,2026-09-07,Breakdown,engine,54.5,59323
+HT-46,2026-09-07,Breakdown,suspension,32.5,7871
+HT-21,2026-09-08,PM service,,8.8,3723
+HT-20,2026-09-09,Breakdown,hydraulics_brakes,19.4,6338
+HT-09,2026-09-10,Breakdown,suspension,12.8,12284
+HT-15,2026-09-10,PM service,,15.0,3174
+HT-19,2026-09-10,PM service,,12.0,2834
+HT-37,2026-09-10,Breakdown,suspension,19.3,10020
+HT-01,2026-09-11,Breakdown,hydraulics_brakes,12.9,5941
+HT-05,2026-09-11,PM service,,11.6,2524
+HT-12,2026-09-11,Breakdown,engine,108.9,36611
+HT-16,2026-09-11,PM service,,11.0,2644
+HT-18,2026-09-12,PM service,,12.4,2965
+HT-43,2026-09-12,PM service,,15.4,3430
+HT-10,2026-09-13,Breakdown,engine,63.6,42399
+HT-20,2026-09-14,PM service,,10.0,3183
+HT-33,2026-09-14,PM service,,10.1,3161
+HT-14,2026-09-15,PM service,,10.3,3178
+HT-48,2026-09-15,PM service,,8.7,2590
+HT-07,2026-09-16,Breakdown,transmission,63.0,42332
+HT-25,2026-09-16,PM service,,9.0,3221
+HT-30,2026-09-16,Breakdown,hydraulics_brakes,12.3,6629
+HT-35,2026-09-16,Breakdown,engine,81.5,54801
+HT-42,2026-09-16,Breakdown,hydraulics_brakes,26.1,6845
+HT-24,2026-09-17,Breakdown,suspension,16.2,16247
+HT-28,2026-09-18,PM service,,13.8,2980
+HT-42,2026-09-18,Breakdown,transmission,73.2,55702
+HT-12,2026-09-19,PM service,,10.4,2898
+HT-13,2026-09-19,PM service,,13.1,3467
+HT-16,2026-09-19,Breakdown,transmission,58.7,45787
+HT-27,2026-09-19,PM service,,11.2,2955
+HT-10,2026-09-20,PM service,,12.0,3508
+HT-36,2026-09-20,PM service,,10.8,3186
+HT-04,2026-09-21,PM service,,14.3,3276
+HT-07,2026-09-21,PM service,,15.8,3523
+HT-18,2026-09-21,Breakdown,hydraulics_brakes,16.5,5304
+HT-19,2026-09-21,Breakdown,transmission,26.1,27323
+HT-26,2026-09-21,PM service,,14.9,3133
+HT-08,2026-09-22,PM service,,8.7,2711
+HT-11,2026-09-22,PM service,,10.0,3293
+HT-44,2026-09-22,PM service,,13.7,3098
+HT-02,2026-09-24,PM service,,12.6,2582
+HT-31,2026-09-24,PM service,,13.5,2908
+HT-41,2026-09-24,PM service,,10.6,2783
+HT-22,2026-09-25,PM service,,8.7,3111
+HT-34,2026-09-25,Breakdown,hydraulics_brakes,11.6,6327
+HT-39,2026-09-25,PM service,,12.3,2981
+HT-45,2026-09-25,PM service,,12.6,3138
+HT-47,2026-09-25,PM service,,14.9,3091
+HT-03,2026-09-26,PM service,,15.1,2889
+HT-17,2026-09-26,PM service,,10.3,3336
+HT-29,2026-09-26,PM service,,14.3,3416
+HT-09,2026-09-27,Breakdown,transmission,43.4,25860
+HT-34,2026-09-27,PM service,,12.5,3531
+HT-27,2026-09-28,Breakdown,suspension,23.2,9054
+HT-31,2026-09-28,Breakdown,engine,102.4,51930
+HT-35,2026-09-28,PM service,,12.1,3504
+HT-08,2026-09-29,Breakdown,suspension,23.0,7037
+HT-28,2026-09-29,Breakdown,hydraulics_brakes,13.8,7839
+HT-38,2026-09-29,PM service,,11.0,3377
+HT-42,2026-09-29,PM service,,12.8,3333
+HT-06,2026-09-30,PM service,,9.1,3544
+HT-37,2026-09-30,PM service,,9.1,3118
+HT-40,2026-09-30,PM service,,15.6,3216
+HT-32,2026-10-02,PM service,,12.2,3061
+HT-01,2026-10-03,PM service,,10.9,3490
+HT-09,2026-10-03,PM service,,9.1,3346
+HT-21,2026-10-03,PM service,,16.2,3630
+HT-10,2026-10-04,Breakdown,hydraulics_brakes,14.8,8709
+HT-23,2026-10-04,PM service,,8.9,3164
+HT-30,2026-10-04,PM service,,13.6,3159
+HT-24,2026-10-05,PM service,,9.6,3404
+HT-46,2026-10-05,PM service,,12.3,3396
+HT-15,2026-10-06,PM service,,8.7,3583
+HT-19,2026-10-06,PM service,,12.8,3412
+HT-33,2026-10-07,PM service,,13.3,3087
+HT-43,2026-10-07,PM service,,11.8,3021
+HT-07,2026-10-08,Breakdown,transmission,53.3,29480
+HT-09,2026-10-08,Breakdown,suspension,19.8,12401
+HT-10,2026-10-09,Breakdown,hydraulics_brakes,10.4,7617
+HT-05,2026-10-10,PM service,,11.2,3604
+HT-16,2026-10-10,PM service,,8.2,3009
+HT-20,2026-10-10,PM service,,10.9,2866
+HT-39,2026-10-12,Breakdown,engine,39.6,45252
+HT-48,2026-10-14,PM service,,11.7,3072
+HT-14,2026-10-15,PM service,,13.7,2559
+HT-17,2026-10-15,Breakdown,hydraulics_brakes,20.9,6268
+HT-11,2026-10-16,PM service,,15.9,3374
+HT-18,2026-10-16,PM service,,8.8,3067
+HT-24,2026-10-16,Breakdown,suspension,25.8,19443
+HT-23,2026-10-17,Breakdown,hydraulics_brakes,9.3,6242
+HT-14,2026-10-18,Breakdown,engine,91.6,38187
+HT-15,2026-10-18,Breakdown,engine,67.8,29806
+HT-02,2026-10-19,PM service,,13.8,3539
+HT-04,2026-10-19,PM service,,11.9,3018
+HT-13,2026-10-19,PM service,,13.9,3290
+HT-45,2026-10-19,Breakdown,suspension,37.3,15996
+HT-10,2026-10-20,PM service,,11.5,2914
+HT-26,2026-10-20,PM service,,10.1,3087
+HT-33,2026-10-20,Breakdown,engine,74.6,39407
+HT-36,2026-10-20,PM service,,12.2,3147
+HT-07,2026-10-21,PM service,,14.8,3263
+HT-08,2026-10-21,PM service,,11.3,3329
+HT-47,2026-10-21,PM service,,9.6,3509
+HT-21,2026-10-23,Breakdown,hydraulics_brakes,8.3,5362
+HT-34,2026-10-23,Breakdown,suspension,36.8,11353
+HT-42,2026-10-23,PM service,,13.3,3240
+HT-44,2026-10-23,PM service,,10.9,2957
+HT-03,2026-10-25,PM service,,16.5,2982
+HT-22,2026-10-25,Breakdown,suspension,22.0,24878
+HT-28,2026-10-25,PM service,,16.4,2584
+HT-35,2026-10-25,PM service,,12.1,3464
+HT-36,2026-10-25,Breakdown,suspension,27.4,16027
+HT-04,2026-10-26,Breakdown,hydraulics_brakes,14.4,3978
+HT-17,2026-10-26,PM service,,15.3,3162
+HT-25,2026-10-26,PM service,,15.0,3428
+HT-34,2026-10-26,PM service,,8.2,3323
+HT-39,2026-10-26,PM service,,12.5,3142
+HT-06,2026-10-27,PM service,,11.5,3920
+HT-32,2026-10-27,PM service,,12.6,3336
+HT-38,2026-10-27,PM service,,10.6,2695
+HT-05,2026-10-28,Breakdown,hydraulics_brakes,17.3,6884
+HT-12,2026-10-28,PM service,,14.1,3552
+HT-22,2026-10-28,PM service,,12.4,2696
+HT-29,2026-10-28,PM service,,10.8,3193
+HT-46,2026-10-28,PM service,,11.4,3363
+HT-03,2026-10-29,Breakdown,hydraulics_brakes,16.8,16020
+HT-12,2026-10-29,Breakdown,transmission,46.4,43104
+HT-37,2026-10-29,PM service,,9.9,3080
+HT-41,2026-10-29,PM service,,15.8,2880
+HT-01,2026-10-30,PM service,,12.4,3242
+HT-27,2026-10-30,PM service,,9.8,3252
+HT-30,2026-10-30,PM service,,13.0,3716
+HT-33,2026-10-30,Breakdown,transmission,62.2,31306
+HT-02,2026-10-31,Breakdown,transmission,63.8,51006
+HT-13,2026-10-31,Breakdown,hydraulics_brakes,14.4,8619
+HT-19,2026-10-31,PM service,,11.8,2999
+HT-24,2026-10-31,PM service,,10.9,3053
+HT-43,2026-10-31,PM service,,9.9,3253
